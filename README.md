@@ -8,7 +8,7 @@ I’m an explorer in the world of code — passionate about Python and building 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,pandas,numpy,markdown&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,jupyter,markdown&theme=dark" />
 </p>
 
 
