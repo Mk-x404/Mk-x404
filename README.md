@@ -7,11 +7,10 @@ I’m an explorer in the world of code — passionate about Python and building 
 
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,pandas,numpy,markdown&theme=dark" />
+</p>
 
----
 
 ## 🚀 Projects I'm Working On
 
