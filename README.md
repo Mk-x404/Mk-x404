@@ -34,7 +34,7 @@ I’m an explorer in the world of code — passionate about Python and building 
 
 - [Scientific Computing with Python – freeCodeCamp](https://www.freecodecamp.org/certification/yourusername/scientific-computing-with-python)  
   *Earned by mastering Python fundamentals, algorithms, and data handling. Continuing to learn and explore advanced concepts.*
-[![Scientific Computing with Python Certificate](python certificate.jpg)](https://www.freecodecamp.org/certification/yourusername/scientific-computing-with-python)
+[![Scientific Computing with Python Certificate](scientific-computing-python-certificate.png)](https://www.freecodecamp.org/certification/i_muhibbb/scientific-computing-with-python-v7)
 
 
 
