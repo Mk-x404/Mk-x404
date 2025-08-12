@@ -30,6 +30,12 @@ I’m an explorer in the world of code — passionate about Python and building 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=github_dark&hide_border=true" width="40%" />
 </p>
+## 📜 Certifications
+
+- [Scientific Computing with Python – freeCodeCamp](https://www.freecodecamp.org/certification/yourusername/scientific-computing-with-python)  
+  *Earned by mastering Python fundamentals, algorithms, and data handling. Continuing to learn and explore advanced concepts.*
+[![Scientific Computing with Python Certificate](python certificate.png)](https://www.freecodecamp.org/certification/yourusername/scientific-computing-with-python)
+
 
 
 
