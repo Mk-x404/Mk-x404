@@ -85,23 +85,23 @@ I specialize in developing intelligent systems and machine learning solutions th
   <!-- Project Grid -->
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
 
-    <!-- Project 1 -->
-    <div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(79, 70, 229, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
-      <h3 style="color: #6366F1; margin-bottom: 15px;">🏦 Bank Management System</h3>
-      <p style="color: #ffffff; opacity: 0.9;">AI-powered banking system with intelligent transaction analysis</p>
-    </div>
+  <!-- Project 1 -->
+<div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(79, 70, 229, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
+  <h3 style="color: #6366F1; margin-bottom: 15px;">🏦 Bank Management System</h3>
+  <p style="color: #ffffff; opacity: 0.9;">AI-powered banking system with intelligent transaction analysis</p>
+</div>
 
-    <!-- Project 2 -->
-    <div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(79, 70, 229, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
-      <h3 style="color: #6366F1; margin-bottom: 15px;">🛒 E-Commerce Analytics</h3>
-      <p style="color: #ffffff; opacity: 0.9;">ML-driven e-commerce platform with recommendation engine</p>
-    </div>
+<!-- Project 2 -->
+<div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(79, 70, 229, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
+  <h3 style="color: #6366F1; margin-bottom: 15px;">🛒 E-Commerce Analytics</h3>
+  <p style="color: #ffffff; opacity: 0.9;">ML-driven e-commerce platform with recommendation engine</p>
+</div>
 
-    <!-- Project 3 -->
-    <div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(79, 70, 229, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
-      <h3 style="color: #6366F1; margin-bottom: 15px;">📚 Library AI System</h3>
-      <p style="color: #ffffff; opacity: 0.9;">Smart library system with AI-powered recommendations</p>
-    </div>
+<!-- Project 3 -->
+<div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(79, 70, 229, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
+  <h3 style="color: #6366F1; margin-bottom: 15px;">📚 Library AI System</h3>
+  <p style="color: #ffffff; opacity: 0.9;">Smart library system with AI-powered recommendations</p>
+</div>
 
   </div>
 
@@ -116,25 +116,50 @@ I specialize in developing intelligent systems and machine learning solutions th
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
 
     <!-- Focus 1 -->
-    <div style="text-align: center; padding: 25px; background: rgba(99, 102, 241, 0.1); border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80" height="80" style="border-radius: 50%;">
-      <h4 style="color: #6366F1; margin: 15px 0;">Machine Learning</h4>
-      <p style="color: #ffffff; opacity: 0.9;">Advanced algorithms and predictive modeling</p>
-    </div>
+<div style="text-align: center; padding: 25px; background: rgba(99, 102, 241, 0.1); border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80" height="80" style="border-radius: 50%;">
+  <h4 style="color: #6366F1; margin: 15px 0;">Machine Learning</h4>
+  <p style="color: #ffffff; opacity: 0.9;">Advanced algorithms and predictive modeling</p>
+</div>
 
-    <!-- Focus 2 -->
-    <div style="text-align: center; padding: 25px; background: rgba(99, 102, 241, 0.1); border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
-      <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="80" height="80" style="border-radius: 50%;">
-      <h4 style="color: #6366F1; margin: 15px 0;">Data Analysis</h4>
-      <p style="color: #ffffff; opacity: 0.9;">Statistical analysis and insights generation</p>
-    </div>
+<!-- Focus 2 -->
+<div style="text-align: center; padding: 25px; background: rgba(99, 102, 241, 0.1); border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="80" height="80" style="border-radius: 50%;">
+  <h4 style="color: #6366F1; margin: 15px 0;">Data Analysis</h4>
+  <p style="color: #ffffff; opacity: 0.9;">Statistical analysis and insights generation</p>
+</div>
 
-    <!-- Focus 3 -->
-    <div style="text-align: center; padding: 25px; background: rgba(99, 102, 241, 0.1); border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
-      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" style="border-radius: 50%;">
-      <h4 style="color: #6366F1; margin: 15px 0;">AI Automation</h4>
-      <p style="color: #ffffff; opacity: 0.9;">Intelligent process automation systems</p>
-    </div>
+<!-- Focus 3 -->
+<div style="text-align: center; padding: 25px; background: rgba(99, 102, 241, 0.1); border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2);">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" style="border-radius: 50%;">
+  <h4 style="color: #6366F1; margin: 15px 0;">AI Automation</h4>
+  <p style="color: #ffffff; opacity: 0.9;">Intelligent process automation systems</p>
+</div>
+</div></div>
+📞 Professional Connect
+<div align="center" style="margin: 40px 0;"> <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+text
+<a href="https://github.com/Mk-x404" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45" style="border-radius: 8px;"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhib-khan-x73" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" style="border-radius: 8px;"/>
+</a>
+
+<a href="https://instagram.com/me._.muhiiib" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" style="border-radius: 8px;"/>
+</a>
+
+<a href="https://www.kaggle.com/muhibbb" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="45" style="border-radius: 8px;"/>
+</a>
+</div></div>
+🎨 Signature Section
+<div align="center" style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(79, 70, 229, 0.15)); padding: 50px; border-radius: 25px; margin: 50px 0; border: 1px solid rgba(99, 102, 241, 0.3);"> <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400" height="200" alt="AI Development" style="border-radius: 15px; margin-bottom: 25px;"> <div style="background: rgba(99, 102, 241, 0.1); padding: 25px; border-radius: 15px; border: 1px solid rgba(99, 102, 241, 0.2); margin: 20px 0;"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=40&lines=Building+Intelligent+Systems+with+Precision;Transforming+Data+into+Actionable+Insights;Pushing+the+Boundaries+of+AI+Research" alt="Professional Signature" /> </div> <div style="margin-top: 30px;"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300" height="150" alt="Network Connection" style="border-radius: 10px;"> </div></div>
+<div align="center" style="margin-top: 40px;"> <img src="https://komarev.com/ghpvc/?username=Mk-x404&color=6366F1&style=for-the-badge&label=PROFILE+VISITORS" height="30"/> <img src="https://img.shields.io/github/followers/Mk-x404?color=6366F1&style=for-the-badge&logo=github&label=FOLLOWERS" height="30"/> </div><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&animation=twinkling" /> </p>
+New chat
+
 
   </div>
 
@@ -148,22 +173,21 @@ I specialize in developing intelligent systems and machine learning solutions th
 
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-    <a href="https://github.com/Mk-x404" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45" style="border-radius: 8px;"/>
-    </a>
+   <a href="https://github.com/Mk-x404" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45" style="border-radius: 8px;"/>
+</a>
 
-    <a href="https://www.linkedin.com/in/muhib-khan-x73" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" style="border-radius: 8px;"/>
-    </a>
+<a href="https://www.linkedin.com/in/muhib-khan-x73" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" style="border-radius: 8px;"/>
+</a>
 
-    <a href="https://instagram.com/me._.muhiiib" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" style="border-radius: 8px;"/>
-    </a>
+<a href="https://instagram.com/me._.muhiiib" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" style="border-radius: 8px;"/>
+</a>
 
-    <a href="https://www.kaggle.com/muhibbb" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="45" style="border-radius: 8px;"/>
-    </a>
-
+<a href="https://www.kaggle.com/muhibbb" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="45" style="border-radius: 8px;"/>
+</a>
   </div>
 
 </div>
