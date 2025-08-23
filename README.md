@@ -72,6 +72,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 | **Machine Learning** | ![Machine Learning](https://img.shields.io/badge/40%25-6366F1?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 
 </div>
+
 ## 🚀 Featured Projects
 
 <div align="center">
