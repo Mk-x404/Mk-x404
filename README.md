@@ -68,20 +68,24 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 ---
 
-## 📊 Learning Progress
-
+>
+📊 Learning Progress
 <div align="center">
-  
-### Current Focus Areas
-![Python](https://progress-bar.dev/90/?title=Python&width=400&color=6366F1)
-![Pandas](https://progress-bar.dev/70/?title=Pandas&width=400&color=6366F1)
-![NumPy](https://progress-bar.dev/65/?title=NumPy&width=400&color=6366F1)
-![Data Visualization](https://progress-bar.dev/60/?title=DataViz&width=400&color=6366F1)
-![Machine Learning](https://progress-bar.dev/40/?title=ML&width=400&color=6366F1)
+Current Focus Areas
+
+Skill	Progress
+
+Python	https://img.shields.io/badge/90%2525-6366F1?style=for-the-badge&logo=python&logoColor=white
+
+Pandas	https://img.shields.io/badge/70%2525-6366F1?style=for-the-badge&logo=pandas&logoColor=white
+
+NumPy	https://img.shields.io/badge/65%2525-6366F1?style=for-the-badge&logo=numpy&logoColor=white
+
+Data Visualization	https://img.shields.io/badge/60%2525-6366F1?style=for-the-badge&logo=matplotlib&logoColor=white
+
+Machine Learning	https://img.shields.io/badge/40%2525-6366F1?style=for-the-badge&logo=scikit-learn&logoColor=white
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
