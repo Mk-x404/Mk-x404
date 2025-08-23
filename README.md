@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgM4yH3w1eG9W99QWw/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1eWR5eXlhOG1qYzF5aDFyZnRuajc2aGwxamNud2xpcGR0MW9zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L88r2f4L2Qn6U/giphy.gif" width="120" />
   <h1>Hi, I'm Muhib</h1>
   <h3>A Python Developer and AI Enthusiast on the path to becoming a Machine Learning Engineer.</h3>
 </div>
 
 ---
-
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,6 +41,7 @@ I'm **Muhib**, a passionate **Python Developer** 🐍 currently learning and exp
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mk-x404&show_icons=true&theme=aura&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=ffffff&ring_color=6366F1" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mk-x404&theme=aura&hide_border=true&background=00000000&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=aura&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff&border_radius=15" alt="Top Languages" />
