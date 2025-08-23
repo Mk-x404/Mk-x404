@@ -61,8 +61,21 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 ## 🌟 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
+  />
+  <img
+    alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
+  />
+</picture>
 
 </div>
 
