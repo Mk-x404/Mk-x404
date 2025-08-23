@@ -62,7 +62,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 <div align="center">
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 ---
