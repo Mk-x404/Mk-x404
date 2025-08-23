@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="Coding GIF">
 </div>
 
 I am **Muhib**, a passionate **Python Developer** currently diving deep into the fascinating world of **Artificial Intelligence, Data Science, and Machine Learning**. I'm building my skills step by step, focusing on creating a strong foundation before advancing to more complex concepts.
@@ -74,7 +74,22 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 📊 Learning Progress
+
+<div align="center">
+  
+### Current Focus Areas
+![Python](https://progress-bar.dev/90/?title=Python&width=400&color=6366F1)
+![Pandas](https://progress-bar.dev/70/?title=Pandas&width=400&color=6366F1)
+![NumPy](https://progress-bar.dev/65/?title=NumPy&width=400&color=6366F1)
+![Data Visualization](https://progress-bar.dev/60/?title=DataViz&width=400&color=6366F1)
+![Machine Learning](https://progress-bar.dev/40/?title=ML&width=400&color=6366F1)
 
 </div>
 
@@ -132,21 +147,6 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 ---
 
-## 📊 Learning Progress
-
-<div align="center">
-  
-### Current Focus Areas
-<img src="https://progress-bar.dev/90/?title=Python&width=400&color=6366F1" alt="Python Progress">
-<img src="https://progress-bar.dev/70/?title=Pandas&width=400&color=6366F1" alt="Pandas Progress">
-<img src="https://progress-bar.dev/65/?title=NumPy&width=400&color=6366F1" alt="NumPy Progress">
-<img src="https://progress-bar.dev/60/?title=DataViz&width=400&color=6366F1" alt="Data Visualization Progress">
-<img src="https://progress-bar.dev/40/?title=ML&width=400&color=6366F1" alt="Machine Learning Progress">
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -175,7 +175,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" alt="Python Coding">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="Python Coding">
 
 **Thanks for visiting my profile! Have a great day!** 😊
 
