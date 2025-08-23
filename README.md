@@ -55,16 +55,6 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff&border_radius=15" alt="Top Languages" /> | |
 
 </div>
-
----
-
-## 🌟 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-
-</div>
 ---
 
 ## 📊 Learning Progress
