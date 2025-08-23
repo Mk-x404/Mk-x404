@@ -20,6 +20,8 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 ## 🛠 Tech Stack & Skills
 
+<div align="center">
+
 ### 🐍 Python Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -40,26 +42,40 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+</div>
+
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mk-x404&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=ffffff&ring_color=6366F1" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mk-x404&theme=radical&hide_border=true&background=00000000&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff&border_radius=15" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mk-x404&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=ffffff&ring_color=6366F1" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mk-x404&theme=radical&hide_border=true&background=00000000&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff&border_radius=15" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -68,29 +84,49 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 <div align="center">
   
-### 🏦 Bank Management System
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-Concept-green?style=flat-square)
-
-A Python OOP project for handling banking operations with deposit, withdrawal, and balance management features.
-
-[![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/Bank-Management-System)
-
-### 🛒 Mini E-Commerce System
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
-![CLI](https://img.shields.io/badge/CLI-Application-yellow?style=flat-square)
-
-A command-line e-commerce system with product management and order processing capabilities.
-
-[![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/E-Commerce-System)
-
-### 📚 Library Management System
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
-![File Handling](https://img.shields.io/badge/File-Handling-orange?style=flat-square)
-
-A system to manage library operations including book issuing, returning, and inventory management.
-
-[![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/Library-Management-System)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="80" alt="Bank Icon">
+      <h3>🏦 Bank Management System</h3>
+      <p>Python OOP project for banking operations</p>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square" alt="Python">
+        <img src="https://img.shields.io/badge/OOP-Concept-green?style=flat-square" alt="OOP">
+      </div>
+      <br>
+      <a href="https://github.com/Mk-x404/Bank-Management-System">
+        <img src="https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge" alt="View Project">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="80" alt="E-commerce Icon">
+      <h3>🛒 Mini E-Commerce System</h3>
+      <p>CLI-based e-commerce system</p>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square" alt="Python">
+        <img src="https://img.shields.io/badge/CLI-Application-yellow?style=flat-square" alt="CLI">
+      </div>
+      <br>
+      <a href="https://github.com/Mk-x404/E-Commerce-System">
+        <img src="https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge" alt="View Project">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="80" alt="Library Icon">
+      <h3>📚 Library Management System</h3>
+      <p>System for library operations</p>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square" alt="Python">
+        <img src="https://img.shields.io/badge/File-Handling-orange?style=flat-square" alt="File Handling">
+      </div>
+      <br>
+      <a href="https://github.com/Mk-x404/Library-Management-System">
+        <img src="https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge" alt="View Project">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -101,21 +137,11 @@ A system to manage library operations including book issuing, returning, and inv
 <div align="center">
   
 ### Current Focus Areas
-![Python](https://progress-bar.dev/90/?title=Python&width=400&color=6366F1)
-![Pandas](https://progress-bar.dev/70/?title=Pandas&width=400&color=6366F1)
-![NumPy](https://progress-bar.dev/65/?title=NumPy&width=400&color=6366F1)
-![Data Visualization](https://progress-bar.dev/60/?title=DataViz&width=400&color=6366F1)
-![Machine Learning](https://progress-bar.dev/40/?title=ML&width=400&color=6366F1)
-
-</div>
-
----
-
-## 🌟 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://progress-bar.dev/90/?title=Python&width=400&color=6366F1" alt="Python Progress">
+<img src="https://progress-bar.dev/70/?title=Pandas&width=400&color=6366F1" alt="Pandas Progress">
+<img src="https://progress-bar.dev/65/?title=NumPy&width=400&color=6366F1" alt="NumPy Progress">
+<img src="https://progress-bar.dev/60/?title=DataViz&width=400&color=6366F1" alt="Data Visualization Progress">
+<img src="https://progress-bar.dev/40/?title=ML&width=400&color=6366F1" alt="Machine Learning Progress">
 
 </div>
 
@@ -149,7 +175,7 @@ A system to manage library operations including book issuing, returning, and inv
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Coding Cat">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" alt="Python Coding">
 
 **Thanks for visiting my profile! Have a great day!** 😊
 
