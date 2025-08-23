@@ -62,31 +62,27 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
->
-📊 Learning Progress
+## 📊 Learning Progress
+
 <div align="center">
-Current Focus Areas
 
-Skill	Progress
+### Current Focus Areas
 
-Python	https://img.shields.io/badge/90%2525-6366F1?style=for-the-badge&logo=python&logoColor=white
-
-Pandas	https://img.shields.io/badge/70%2525-6366F1?style=for-the-badge&logo=pandas&logoColor=white
-
-NumPy	https://img.shields.io/badge/65%2525-6366F1?style=for-the-badge&logo=numpy&logoColor=white
-
-Data Visualization	https://img.shields.io/badge/60%2525-6366F1?style=for-the-badge&logo=matplotlib&logoColor=white
-
-Machine Learning	https://img.shields.io/badge/40%2525-6366F1?style=for-the-badge&logo=scikit-learn&logoColor=white
+| **Skill** | **Progress** |
+| :--- | :--- |
+| **Python** | ![Python](https://img.shields.io/badge/90%25-6366F1?style=for-the-badge&logo=python&logoColor=white) |
+| **Pandas** | ![Pandas](https://img.shields.io/badge/70%25-6366F1?style=for-the-badge&logo=pandas&logoColor=white) |
+| **NumPy** | ![NumPy](https://img.shields.io/badge/65%25-6366F1?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Data Visualization** | ![Data Visualization](https://img.shields.io/badge/60%25-6366F1?style=for-the-badge&logo=matplotlib&logoColor=white) |
+| **Machine Learning** | ![Machine Learning](https://img.shields.io/badge/40%25-6366F1?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 
 </div>
-
 ## 🚀 Featured Projects
 
 <div align="center">
