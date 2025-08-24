@@ -55,14 +55,13 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff&border_radius=15" alt="Top Languages" /> | |
 
 </div>
----
+
 ![Stars](https://img.shields.io/github/stars/Mk-x404/Python-practice?style=flat)
 ![Forks](https://img.shields.io/github/forks/Mk-x404/Python-practice?style=flat)
 ![Issues](https://img.shields.io/github/issues/Mk-x404/Python-practice)
 ![Last commit](https://img.shields.io/github/last-commit/Mk-x404/Python-practice)
 ![Size](https://img.shields.io/github/repo-size/Mk-x404/Python-practice)
 
----
 
 ## 📊 Learning Progress
 
