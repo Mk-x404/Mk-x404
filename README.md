@@ -89,359 +89,52 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 </div>
 
-## 🚀 Featured Projects
+# Python Project Portfolio
 
-<div align="center">
-  
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Portfolio Showcase</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        :root {
-            --bank-color: #2563eb;
-            --ecommerce-color: #8b5cf6;
-            --library-color: #059669;
-            --showroom-color: #dc2626;
-            --complaint-color: #d97706;
-            --card-bg: #ffffff;
-            --text-dark: #1f2937;
-            --text-light: #6b7280;
-            --shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-        }
-        
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        
-        body {
-            background: linear-gradient(135deg, #f3f4f6, #e5e7eb);
-            color: var(--text-dark);
-            padding: 2rem;
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        
-        header {
-            text-align: center;
-            margin-bottom: 3rem;
-        }
-        
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-            background: linear-gradient(90deg, var(--bank-color), var(--ecommerce-color), var(--library-color), var(--showroom-color), var(--complaint-color));
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-            font-weight: 800;
-        }
-        
-        .subtitle {
-            font-size: 1.1rem;
-            color: var(--text-light);
-            max-width: 600px;
-            margin: 0 auto;
-        }
-        
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-        }
-        
-        .project-card {
-            background: var(--card-bg);
-            border-radius: 1rem;
-            overflow: hidden;
-            box-shadow: var(--shadow);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        
-        .project-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-        }
-        
-        .card-header {
-            padding: 1.5rem;
-            text-align: center;
-            color: white;
-        }
-        
-        .bank-header {
-            background: var(--bank-color);
-        }
-        
-        .ecommerce-header {
-            background: var(--ecommerce-color);
-        }
-        
-        .library-header {
-            background: var(--library-color);
-        }
-        
-        .showroom-header {
-            background: var(--showroom-color);
-        }
-        
-        .complaint-header {
-            background: var(--complaint-color);
-        }
-        
-        .card-icon {
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }
-        
-        .card-title {
-            font-size: 1.5rem;
-            font-weight: 700;
-            margin-bottom: 0.5rem;
-        }
-        
-        .card-body {
-            padding: 1.5rem;
-        }
-        
-        .card-description {
-            color: var(--text-light);
-            margin-bottom: 1.5rem;
-            line-height: 1.6;
-        }
-        
-        .card-tech {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-            margin-bottom: 1.5rem;
-        }
-        
-        .tech-badge {
-            padding: 0.35rem 0.75rem;
-            border-radius: 9999px;
-            font-size: 0.8rem;
-            font-weight: 500;
-        }
-        
-        .bank-tech {
-            background-color: #dbeafe;
-            color: var(--bank-color);
-        }
-        
-        .ecommerce-tech {
-            background-color: #ede9fe;
-            color: var(--ecommerce-color);
-        }
-        
-        .library-tech {
-            background-color: #d1fae5;
-            color: var(--library-color);
-        }
-        
-        .showroom-tech {
-            background-color: #fee2e2;
-            color: var(--showroom-color);
-        }
-        
-        .complaint-tech {
-            background-color: #fed7aa;
-            color: var(--complaint-color);
-        }
-        
-        .card-button {
-            display: block;
-            text-align: center;
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.5rem;
-            font-weight: 600;
-            text-decoration: none;
-            transition: all 0.2s ease;
-        }
-        
-        .bank-button {
-            background-color: var(--bank-color);
-            color: white;
-        }
-        
-        .bank-button:hover {
-            background-color: #1d4ed8;
-        }
-        
-        .ecommerce-button {
-            background-color: var(--ecommerce-color);
-            color: white;
-        }
-        
-        .ecommerce-button:hover {
-            background-color: #7c3aed;
-        }
-        
-        .library-button {
-            background-color: var(--library-color);
-            color: white;
-        }
-        
-        .library-button:hover {
-            background-color: #047857;
-        }
-        
-        .showroom-button {
-            background-color: var(--showroom-color);
-            color: white;
-        }
-        
-        .showroom-button:hover {
-            background-color: #b91c1c;
-        }
-        
-        .complaint-button {
-            background-color: var(--complaint-color);
-            color: white;
-        }
-        
-        .complaint-button:hover {
-            background-color: #b45309;
-        }
-        
-        @media (max-width: 768px) {
-            .projects-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            h1 {
-                font-size: 2rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Python Project Portfolio</h1>
-            <p class="subtitle">A collection of console-based applications demonstrating Python programming skills across different domains.</p>
-        </header>
-        
-        <div class="projects-grid">
-            <!-- Bank Management System -->
-            <div class="project-card">
-                <div class="card-header bank-header">
-                    <div class="card-icon">
-                        <i class="fas fa-university"></i>
-                    </div>
-                    <h2 class="card-title">Bank Management System</h2>
-                </div>
-                <div class="card-body">
-                    <p class="card-description">Python OOP project for banking operations including account creation, deposits, withdrawals, and balance inquiries.</p>
-                    <div class="card-tech">
-                        <span class="tech-badge bank-tech">Python 3.x</span>
-                        <span class="tech-badge bank-tech">OOP Concept</span>
-                        <span class="tech-badge bank-tech">Data Persistence</span>
-                    </div>
-                    <a href="https://github.com/Mk-x404/Python-practice/blob/main/Bank%20Account%20Managment%20System.py" class="card-button bank-button">
-                        <i class="fas fa-external-link-alt"></i> View Project
-                    </a>
-                </div>
-            </div>
-            
-            <!-- Mini E-Commerce System -->
-            <div class="project-card">
-                <div class="card-header ecommerce-header">
-                    <div class="card-icon">
-                        <i class="fas fa-shopping-cart"></i>
-                    </div>
-                    <h2 class="card-title">Mini E-Commerce System</h2>
-                </div>
-                <div class="card-body">
-                    <p class="card-description">CLI-based e-commerce system with product catalog, shopping cart, order management, and checkout functionality.</p>
-                    <div class="card-tech">
-                        <span class="tech-badge ecommerce-tech">Python 3.x</span>
-                        <span class="tech-badge ecommerce-tech">CLI Application</span>
-                        <span class="tech-badge ecommerce-tech">Inventory Management</span>
-                    </div>
-                    <a href="https://github.com/Mk-x404/Python-practice/blob/main/Ecommerce%20Commerce%20Management.ipynb" class="card-button ecommerce-button">
-                        <i class="fas fa-external-link-alt"></i> View Project
-                    </a>
-                </div>
-            </div>
-            
-            <!-- Library Management System -->
-            <div class="project-card">
-                <div class="card-header library-header">
-                    <div class="card-icon">
-                        <i class="fas fa-book"></i>
-                    </div>
-                    <h2 class="card-title">Library Management System</h2>
-                </div>
-                <div class="card-body">
-                    <p class="card-description">System for library operations including book tracking, member management, borrow/return processes, and late fee calculations.</p>
-                    <div class="card-tech">
-                        <span class="tech-badge library-tech">Python 3.x</span>
-                        <span class="tech-badge library-tech">File Handling</span>
-                        <span class="tech-badge library-tech">Data Management</span>
-                    </div>
-                    <a href="https://github.com/Mk-x404/Python-practice/blob/main/Library%20Managment%20System.py" class="card-button library-button">
-                        <i class="fas fa-external-link-alt"></i> View Project
-                    </a>
-                </div>
-            </div>
-            
-            <!-- Showroom Console Program -->
-            <div class="project-card">
-                <div class="card-header showroom-header">
-                    <div class="card-icon">
-                        <i class="fas fa-car"></i>
-                    </div>
-                    <h2 class="card-title">Showroom Console Program</h2>
-                </div>
-                <div class="card-body">
-                    <p class="card-description">Console-based showroom program for vehicle inventory management, customer inquiries, and sales tracking.</p>
-                    <div class="card-tech">
-                        <span class="tech-badge showroom-tech">Python 3.x</span>
-                        <span class="tech-badge showroom-tech">Console Program</span>
-                        <span class="tech-badge showroom-tech">Inventory System</span>
-                    </div>
-                    <a href="https://github.com/Mk-x404/Python-practice/blob/main/Showroom%20console%20program.ipynb" class="card-button showroom-button">
-                        <i class="fas fa-external-link-alt"></i> View Project
-                    </a>
-                </div>
-            </div>
-            
-            <!-- Complaint Management System -->
-            <div class="project-card">
-                <div class="card-header complaint-header">
-                    <div class="card-icon">
-                        <i class="fas fa-headset"></i>
-                    </div>
-                    <h2 class="card-title">Complaint Management System</h2>
-                </div>
-                <div class="card-body">
-                    <p class="card-description">Complaint tracking and handling system with ticket generation, status updates, and resolution tracking.</p>
-                    <div class="card-tech">
-                        <span class="tech-badge complaint-tech">Python 3.x</span>
-                        <span class="tech-badge complaint-tech">CLI Tool</span>
-                        <span class="tech-badge complaint-tech">Ticketing System</span>
-                    </div>
-                    <a href="https://github.com/Mk-x404/Python-practice/blob/main/complaint%20management%20system.ipynb" class="card-button complaint-button">
-                        <i class="fas fa-external-link-alt"></i> View Project
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+A collection of console-based applications demonstrating Python programming skills across different domains with clean, efficient code and practical implementations.
 
+## 🏦 Bank Management System
+**Python OOP project for banking operations** including account creation, deposits, withdrawals, and balance inquiries with secure transaction handling.
+
+🐍 **Python 3.x** | 🔄 **OOP Concept** | 💾 **Data Persistence**
+
+[![View Project](https://img.shields.io/badge/View-Project-2563EB?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/Bank%20Account%20Managment%20System.py)
+
+## 🛒 Mini E-Commerce System
+**CLI-based e-commerce system** with product catalog, shopping cart, order management, and checkout functionality with inventory tracking.
+
+🐍 **Python 3.x** | 💻 **CLI Application** | 📦 **Inventory Management**
+
+[![View Project](https://img.shields.io/badge/View-Project-8B5CF6?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/Ecommerce%20Commerce%20Management.ipynb)
+
+## 📚 Library Management System
+**System for library operations** including book tracking, member management, borrow/return processes, and late fee calculations with reporting.
+
+🐍 **Python 3.x** | 📁 **File Handling** | 🗃️ **Data Management**
+
+[![View Project](https://img.shields.io/badge/View-Project-059669?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/Library%20Managment%20System.py)
+
+## 🚗 Showroom Console Program
+**Console-based showroom program** for vehicle inventory management, customer inquiries, sales tracking, and purchase processing.
+
+🐍 **Python 3.x** | 🖥️ **Console Program** | 📊 **Inventory System**
+
+[![View Project](https://img.shields.io/badge/View-Project-DC2626?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/Showroom%20console%20program.ipynb)
+
+## 📋 Complaint Management System
+**Complaint tracking and handling system** with ticket generation, status updates, priority assignment, and resolution tracking.
+
+🐍 **Python 3.x** | 🛠️ **CLI Tool** | 🎫 **Ticketing System**
+
+[![View Project](https://img.shields.io/badge/View-Project-D97706?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/complaint%20management%20system.ipynb)
+
+---
+
+## Explore More on GitHub
+
+Check out all my projects and code repositories on GitHub for more Python applications and programming examples.
+
+[![Visit My GitHub](https://img.shields.io/badge/Visit-My_GitHub-238636?style=for-the-badge&logo=github)](https://github.com/Mk-x404/Python-practice)
 </div>
 
 ---
