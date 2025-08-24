@@ -56,6 +56,9 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 </div>
 ---
+![Followers](https://img.shields.io/github/followers/your-username?style=social)
+![Stars](https://img.shields.io/github/stars/your-username?style=social)
+---
 
 ## 📊 Learning Progress
 
