@@ -89,52 +89,120 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 </div>
 
-# Python Project Portfolio
+# 🐍 Python Projects Portfolio
 
-A collection of console-based applications demonstrating Python programming skills across different domains with clean, efficient code and practical implementations.
+A collection of practical Python applications showcasing diverse programming skills.
 
-## 🏦 Bank Management System
-**Python OOP project for banking operations** including account creation, deposits, withdrawals, and balance inquiries with secure transaction handling.
+## 🚀 Featured Projects
 
-🐍 **Python 3.x** | 🔄 **OOP Concept** | 💾 **Data Persistence**
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏦 Bank Management System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/OOP-Concept-green?style=for-the-badge" alt="OOP">
+        <img src="https://img.shields.io/badge/Data-Persistence-orange?style=for-the-badge" alt="Data Persistence">
+      </div>
+      <p>Python OOP project for banking operations including account creation, deposits, withdrawals, and balance inquiries.</p>
+      <div align="center">
+        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Bank%20Account%20Managment%20System.py">
+          <img src="https://img.shields.io/badge/View-Project-2563EB?style=for-the-badge&logo=github" alt="View Project">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 Mini E-Commerce System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/CLI-Application-yellow?style=for-the-badge" alt="CLI">
+        <img src="https://img.shields.io/badge/Inventory-Management-red?style=for-the-badge" alt="Inventory">
+      </div>
+      <p>CLI-based e-commerce system with product catalog, shopping cart, order management, and checkout functionality.</p>
+      <div align="center">
+        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Ecommerce%20Commerce%20Management.ipynb">
+          <img src="https://img.shields.io/badge/View-Project-8B5CF6?style=for-the-badge&logo=github" alt="View Project">
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 Library Management System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/File-Handling-orange?style=for-the-badge" alt="File Handling">
+        <img src="https://img.shields.io/badge/Data-Management-brightgreen?style=for-the-badge" alt="Data Management">
+      </div>
+      <p>System for library operations including book tracking, member management, borrow/return processes, and late fee calculations.</p>
+      <div align="center">
+        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Library%20Managment%20System.py">
+          <img src="https://img.shields.io/badge/View-Project-059669?style=for-the-badge&logo=github" alt="View Project">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚗 Showroom Console Program</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/Console-Program-purple?style=for-the-badge" alt="Console">
+        <img src="https://img.shields.io/badge/Inventory-System-lightgrey?style=for-the-badge" alt="Inventory System">
+      </div>
+      <p>Console-based showroom program for vehicle inventory management, customer inquiries, and sales tracking.</p>
+      <div align="center">
+        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Showroom%20console%20program.ipynb">
+          <img src="https://img.shields.io/badge/View-Project-DC2626?style=for-the-badge&logo=github" alt="View Project">
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📋 Complaint Management System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/CLI-Tool-red?style=for-the-badge" alt="CLI">
+        <img src="https://img.shields.io/badge/Ticketing-System-ff69b4?style=for-the-badge" alt="Ticketing System">
+      </div>
+      <p>Complaint tracking and handling system with ticket generation, status updates, and resolution tracking.</p>
+      <div align="center">
+        <a href="https://github.com/Mk-x404/Python-practice/blob/main/complaint%20management%20system.ipynb">
+          <img src="https://img.shields.io/badge/View-Project-D97706?style=for-the-badge&logo=github" alt="View Project">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">⭐ More Projects</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/Various-Domains-9cf?style=for-the-badge" alt="Various Domains">
+        <img src="https://img.shields.io/badge/Open--Source-ff7139?style=for-the-badge" alt="Open Source">
+      </div>
+      <p>Explore more of my Python projects and contributions to open source on my GitHub profile.</p>
+      <div align="center">
+        <a href="https://github.com/Mk-x404/Python-practice">
+          <img src="https://img.shields.io/badge/Explore-More_Projects-6366F1?style=for-the-badge&logo=github" alt="Explore More">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-[![View Project](https://img.shields.io/badge/View-Project-2563EB?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/Bank%20Account%20Managment%20System.py)
+## 📊 Technologies & Skills
 
-## 🛒 Mini E-Commerce System
-**CLI-based e-commerce system** with product catalog, shopping cart, order management, and checkout functionality with inventory tracking.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-plastic&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Concept-4A154B?style=for-the-plastic)
+![CLI](https://img.shields.io/badge/CLI-Applications-000000?style=for-the-plastic)
+![File Handling](https://img.shields.io/badge/File-Handling-FF9900?style=for-the-plastic)
+![Data Management](https://img.shields.io/badge/Data-Management-3366CC?style=for-the-plastic)
 
-🐍 **Python 3.x** | 💻 **CLI Application** | 📦 **Inventory Management**
+## 📈 GitHub Stats
 
-[![View Project](https://img.shields.io/badge/View-Project-8B5CF6?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/Ecommerce%20Commerce%20Management.ipynb)
-
-## 📚 Library Management System
-**System for library operations** including book tracking, member management, borrow/return processes, and late fee calculations with reporting.
-
-🐍 **Python 3.x** | 📁 **File Handling** | 🗃️ **Data Management**
-
-[![View Project](https://img.shields.io/badge/View-Project-059669?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/Library%20Managment%20System.py)
-
-## 🚗 Showroom Console Program
-**Console-based showroom program** for vehicle inventory management, customer inquiries, sales tracking, and purchase processing.
-
-🐍 **Python 3.x** | 🖥️ **Console Program** | 📊 **Inventory System**
-
-[![View Project](https://img.shields.io/badge/View-Project-DC2626?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/Showroom%20console%20program.ipynb)
-
-## 📋 Complaint Management System
-**Complaint tracking and handling system** with ticket generation, status updates, priority assignment, and resolution tracking.
-
-🐍 **Python 3.x** | 🛠️ **CLI Tool** | 🎫 **Ticketing System**
-
-[![View Project](https://img.shields.io/badge/View-Project-D97706?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/blob/main/complaint%20management%20system.ipynb)
+![Python Practice](https://github-readme-stats.vercel.app/api/pin/?username=Mk-x404&repo=Python-practice&theme=radical)
 
 ---
 
-## Explore More on GitHub
-
-Check out all my projects and code repositories on GitHub for more Python applications and programming examples.
-
-[![Visit My GitHub](https://img.shields.io/badge/Visit-My_GitHub-238636?style=for-the-badge&logo=github)](https://github.com/Mk-x404/Python-practice)
+⭐️ From [Mk-x404](https://github.com/Mk-x404)
 </div>
 
 ---
