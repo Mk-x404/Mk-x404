@@ -56,11 +56,21 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 </div>
 
-![Stars](https://img.shields.io/github/stars/Mk-x404/Python-practice?style=flat)
-![Forks](https://img.shields.io/github/forks/Mk-x404/Python-practice?style=flat)
-![Issues](https://img.shields.io/github/issues/Mk-x404/Python-practice)
-![Last commit](https://img.shields.io/github/last-commit/Mk-x404/Python-practice)
-![Size](https://img.shields.io/github/repo-size/Mk-x404/Python-practice)
+---
+
+## 📊 Repo Stats  
+
+![Stars](https://img.shields.io/github/stars/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=yellow)
+![Forks](https://img.shields.io/github/forks/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=blue)
+![Issues](https://img.shields.io/github/issues/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=red)
+![Last Commit](https://img.shields.io/github/last-commit/Mk-x404/Python-practice?style=for-the-badge&logo=git&color=orange)
+![Repo Size](https://img.shields.io/github/repo-size/Mk-x404/Python-practice?style=for-the-badge&logo=files&color=green)
+
+---
+![Followers](https://img.shields.io/github/followers/Mk-x404?style=social)
+![Total Stars](https://img.shields.io/github/stars/Mk-x404?style=social)
+![License](https://img.shields.io/github/license/Mk-x404/Python-practice)
+
 
 
 ## 📊 Learning Progress
