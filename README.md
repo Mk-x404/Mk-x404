@@ -325,7 +325,7 @@ A collection of practical Python applications showcasing diverse programming ski
 
 <div align="center">
   
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A4dXA5cXk0ZWprZjhjbG16cGpzd2tjM21leWllMGNkaTl5N2VmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Python Coding">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A4dXA5cXk0ZWprZjhjbG16cGpzd2tjM21leWllMGNkaTl5N2VmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="650" alt="Python Coding">
 
 **Thanks for visiting my profile! Have a great day!** 😊
 
