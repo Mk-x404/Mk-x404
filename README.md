@@ -98,7 +98,8 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 | <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="80" alt="Bank Icon"> | <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="80" alt="E-commerce Icon"> | <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="80" alt="Library Icon"> |
 | Python OOP project for banking operations | CLI-based e-commerce system | System for library operations |
 | ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-Concept-green?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square) ![CLI](https://img.shields.io/badge/CLI-Application-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square) ![File Handling](https://img.shields.io/badge/File-Handling-orange?style=flat-square) |
-| [![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/Bank-Management-System) | [![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/E-Commerce-System) | [![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/Library-Management-System) |
+| [![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/tree/main/Bank-Management-System) | [![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/tree/main/E-Commerce-System) | [![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge)](https://github.com/Mk-x404/Python-practice/tree/main/Library-Management-System) |
+
 
 </div>
 
