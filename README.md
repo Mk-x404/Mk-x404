@@ -57,20 +57,60 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 </div>
 
 ---
+## 📊 GitHub Analytics &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-## 📊 Repo Stats  
+<div align="center">
 
-![Stars](https://img.shields.io/github/stars/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=yellow)
-![Forks](https://img.shields.io/github/forks/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=blue)
-![Issues](https://img.shields.io/github/issues/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=red)
-![Last Commit](https://img.shields.io/github/last-commit/Mk-x404/Python-practice?style=for-the-badge&logo=git&color=orange)
-![Repo Size](https://img.shields.io/github/repo-size/Mk-x404/Python-practice?style=for-the-badge&logo=files&color=green)
+### 🚀 Repository Stats
+
+| | |
+| :--- | :--- |
+| **🌟 Stars** | ![Stars](https://img.shields.io/github/stars/Mk-x404/Python-practice?style=for-the-badge&logo=starship&color=yellow&labelColor=black) |
+| **🍴 Forks** | ![Forks](https://img.shields.io/github/forks/Mk-x404/Python-practice?style=for-the-badge&logo=git&color=blue&labelColor=black) |
+| **🐛 Issues** | ![Issues](https://img.shields.io/github/issues/Mk-x404/Python-practice?style=for-the-badge&logo=codecov&color=red&labelColor=black) |
+| **📝 Pull Requests** | ![PRs](https://img.shields.io/github/issues-pr/Mk-x404/Python-practice?style=for-the-badge&logo=githubactions&color=violet&labelColor=black) |
+| **⚡ Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=orange&labelColor=black) |
+| **📦 Repo Size** | ![Repo Size](https://img.shields.io/github/repo-size/Mk-x404/Python-practice?style=for-the-badge&logo=database&color=green&labelColor=black) |
+| **📄 License** | ![License](https://img.shields.io/github/license/Mk-x404/Python-practice?style=for-the-badge&logo=open-source-initiative&color=success&labelColor=black) |
+
+### 👨‍💻 Profile Stats
+
+| | |
+| :--- | :--- |
+| **👥 Followers** | ![Followers](https://img.shields.io/github/followers/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black) |
+| **📌 Following** | ![Following](https://img.shields.io/github/following/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black) |
+| **⭐ Total Stars** | ![Total Stars](https://img.shields.io/github/stars/Mk-x404?style=for-the-badge&logo=github&color=yellow&labelColor=black) |
+| **📊 Contributions** | ![Contributions](https://img.shields.io/github/contributors/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=blue&labelColor=black) |
+
+### 📈 Activity Graph
+
+![Mk-x404's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mk-x404&theme=github-dark&hide_border=true&area=true)
+
+</div>
 
 ---
-![Followers](https://img.shields.io/github/followers/Mk-x404?style=social)
-![Total Stars](https://img.shields.io/github/stars/Mk-x404?style=social)
-![License](https://img.shields.io/github/license/Mk-x404/Python-practice)
 
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Mk-x404&theme=onedark&no-frame=true&row=1&column=6)
+
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**🐍 Python Enthusiast • 🚀 Open Source Contributor • 💻 Developer**
+
+[![GitHub](https://img.shields.io/badge/View_All_Repos-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mk-x404?tab=repositories)
+
+</div>
 
 
 ## 📊 Learning Progress
