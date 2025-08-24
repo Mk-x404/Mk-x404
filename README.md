@@ -14,7 +14,8 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt5b2JpNG5zMWcwZ3g3OXY3dm96cXoyOXVtanFoaWVzeGM0NmZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="550" alt="Coding GIF">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwdWNhbmtrYnd2bHQxam9jdDNvZDFqcGVnbG9nc3FndHA3cjA2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="550" alt="Coding GIF">
+
 </div>
 
 ---
@@ -324,7 +325,7 @@ A collection of practical Python applications showcasing diverse programming ski
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="Python Coding">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A4dXA5cXk0ZWprZjhjbG16cGpzd2tjM21leWllMGNkaTl5N2VmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Python Coding">
 
 **Thanks for visiting my profile! Have a great day!** 😊
 
