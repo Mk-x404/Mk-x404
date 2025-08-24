@@ -78,7 +78,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 | | |
 | :--- | :--- |
 | **👥 Followers** | ![Followers](https://img.shields.io/github/followers/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black) |
-| **📌 Following** | ![Following](https://img.shields.io/github/following/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black) |
+| **📌 Following** |![GitHub Followers](https://img.shields.io/github/followers/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black&label=Followers) |
 | **⭐ Total Stars** | ![Total Stars](https://img.shields.io/github/stars/Mk-x404?style=for-the-badge&logo=github&color=yellow&labelColor=black) |
 | **📊 Contributions** | ![Contributions](https://img.shields.io/github/contributors/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=blue&labelColor=black) |
 
