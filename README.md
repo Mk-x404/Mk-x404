@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 <div align="center">
-[  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="550" alt="Coding GIF">
-](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRxdjl0bTBrdTM0ZnU2azA2Z2Y4Y3FqZDh2YjdkcmxiMWQ1dzgyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)</div>
+  <img src ="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRxdjl0bTBrdTM0ZnU2azA2Z2Y4Y3FqZDh2YjdkcmxiMWQ1dzgyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" width="550" alt="Coding GIF">
+</div>
 
 I am **Muhib**, a passionate **Python Developer** currently diving deep into the fascinating world of **Artificial Intelligence, Data Science, and Machine Learning**. I'm building my skills step by step, focusing on creating a strong foundation before advancing to more complex concepts.
 
