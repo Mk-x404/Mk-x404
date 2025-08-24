@@ -2,8 +2,9 @@
 
 <div align="center">
 <p align="center">
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&pause=1000&color=FF0000&background=FFFFFF00&center=true&width=900&lines=PYTHON+DEVELOPER;A.I+%26+DATA+SCIENCE+LEARNER;FUTURE+ML+ENGINEER" />
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&pause=1000&color=FF0000&background=FFFFFF00&center=true&width=650&lines=PYTHON+DEVELOPER;A.I+%26+DATA+SCIENCE+LEARNER;FUTURE+ML+ENGINEER" />
 </p>
+
 
 
 </div>
