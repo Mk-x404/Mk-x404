@@ -1,7 +1,7 @@
 # 🤖 Hi, I'm Muhib - Python Developer & AI Enthusiast
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=850&lines=Python+Developer;AI+and+Data+Science+Learner;Future+Machine+Learning+Engineer" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&pause=1000&color=CA0000&background=CA000000&center=true&width=420&lines=PYTHON+DEVELOPER;A.I+%26+DATA+SCIENCE+LEARNER;FUTURE+MACHINE+LEARNING+ENGINEER)](https://git.io/typing-svg)
 </div>
 
 ---
