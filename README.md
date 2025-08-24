@@ -56,8 +56,11 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 </div>
 ---
-![Followers](https://img.shields.io/github/followers/Mk-x404?style=social)
-![Stars](https://img.shields.io/github/stars/Mk-x404?style=social)
+![Stars](https://img.shields.io/github/stars/Mk-x404/Python-practice?style=flat)
+![Forks](https://img.shields.io/github/forks/Mk-x404/Python-practice?style=flat)
+![Issues](https://img.shields.io/github/issues/Mk-x404/Python-practice)
+![Last commit](https://img.shields.io/github/last-commit/Mk-x404/Python-practice)
+![Size](https://img.shields.io/github/repo-size/Mk-x404/Python-practice)
 
 ---
 
