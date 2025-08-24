@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Coding GIF">
 </div>
 
 I am **Muhib**, a passionate **Python Developer** currently diving deep into the fascinating world of **Artificial Intelligence, Data Science, and Machine Learning**. I'm building my skills step by step, focusing on creating a strong foundation before advancing to more complex concepts.
