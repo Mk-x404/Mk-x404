@@ -188,9 +188,19 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 | Certification | Platform | Status | Verification |
 | :--- | :--- | :--- | :--- |
-| ![Scientific Computing with Python](https://img.shields.io/badge/Scientific_Computing_with_Python-freeCodeCamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white) | freeCodeCamp | ✅ Completed | [Verify](https://www.freecodecamp.org/certification/i_muhibbb/scientific-computing-with-python-v7) |
-| ![Python Course](https://img.shields.io/badge/Python-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) | Kaggle | ✅ Completed | [Verify](https://www.kaggle.com/learn/certification/muhibbb/python) |
-| ![Understanding Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-DataCamp-00BFFF?style=for-the-badge&logo=datacamp&logoColor=white) | DataCamp | ✅ Completed | [Verify](https://tinyurl.com/Datacamp-PromptEngineering) |
+| ![Scientific Computing with Python](https://img.shields.io/badge/Scientific_Computing_with_Python-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) | `freeCodeCamp` | ✅ Completed | [🔗 Verify](https://www.freecodecamp.org/certification/i_muhibbb/scientific-computing-with-python-v7) |
+| ![Python Course](https://img.shields.io/badge/Python_Programming-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) | `Kaggle` | ✅ Completed | [🔗 Verify](https://www.kaggle.com/learn/certification/muhibbb/python) |
+| ![Understanding Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering_Fundamentals-DataCamp-00BFFF?style=for-the-badge&logo=datacamp&logoColor=white) | `DataCamp` | ✅ Completed | [🔗 Verify](https://tinyurl.com/Datacamp-PromptEngineering) |
+
+<br>
+
+### 📊 Platform Distribution
+
+| Platform | Count |
+| :--- | :--- |
+| **freeCodeCamp** | 1 |
+| **Kaggle** | 1 |
+| **DataCamp** | 1 |
 
 </div>
 
