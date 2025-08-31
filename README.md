@@ -236,7 +236,7 @@ A collection of practical Python applications showcasing diverse programming ski
       </div>
       <p>CLI-based e-commerce system with product catalog, shopping cart, order management, and checkout functionality.</p>
       <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Realistic mini e-commerce management system.ipynb">
+        <a href="[https://github.com/Mk-x404/Python-practice/blob/main/Realistic mini e-commerce management system.ipynb](https://github.com/Mk-x404/Python-practice/blob/main/Realistic%20mini%20e-commerce%20management%20system)">
           <img src="https://img.shields.io/badge/View-Project-8B5CF6?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </div>
