@@ -116,18 +116,6 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 <div align="center">
 
-### 🚀 Repository Stats
-
-| | |
-| :--- | :--- |
-| **🌟 Stars** | ![Stars](https://img.shields.io/github/stars/Mk-x404/Python-practice?style=for-the-badge&logo=starship&color=yellow&labelColor=black) |
-| **🍴 Forks** | ![Forks](https://img.shields.io/github/forks/Mk-x404/Python-practice?style=for-the-badge&logo=git&color=blue&labelColor=black) |
-| **🐛 Issues** | ![Issues](https://img.shields.io/github/issues/Mk-x404/Python-practice?style=for-the-badge&logo=codecov&color=red&labelColor=black) |
-| **📝 Pull Requests** | ![PRs](https://img.shields.io/github/issues-pr/Mk-x404/Python-practice?style=for-the-badge&logo=githubactions&color=violet&labelColor=black) |
-| **⚡ Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=orange&labelColor=black) |
-| **📦 Repo Size** | ![Repo Size](https://img.shields.io/github/repo-size/Mk-x404/Python-practice?style=for-the-badge&logo=database&color=green&labelColor=black) |
-| **📄 License** | ![License](https://img.shields.io/github/license/Mk-x404/Python-practice?style=for-the-badge&logo=open-source-initiative&color=success&labelColor=black) |
-
 ### 👨‍💻 Profile Stats
 
 | | |
@@ -347,15 +335,6 @@ A collection of hands-on projects I built during my **CodeAlpha Internship**, sh
     </td>
   </tr>
 </table>  
-
-
-## 📊 Technologies & Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-plastic&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Concept-4A154B?style=for-the-plastic)
-![CLI](https://img.shields.io/badge/CLI-Applications-000000?style=for-the-plastic)
-![File Handling](https://img.shields.io/badge/File-Handling-FF9900?style=for-the-plastic)
-![Data Management](https://img.shields.io/badge/Data-Management-3366CC?style=for-the-plastic)
 
 ## 📈 GitHub Stats
 
