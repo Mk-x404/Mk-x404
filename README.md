@@ -331,9 +331,9 @@ A collection of hands-on projects I built during my **CodeAlpha Internship**, sh
         Stay tuned for updates showcasing **Python-based tools, mini-systems, and algorithms**.
       </p>
       <div align="center">
-        <a href="https://github.com/Mk-x404/CodeAlpha_Internship">
-          <img src="https://img.shields.io/badge/Explore-More-Projects-8B5CF6?style=for-the-badge&logo=github" alt="Explore More">
-        </a>
+         <a href="https://github.com/Mk-x404/CodeAlpha_Internship">
+          <img src="https://img.shields.io/badge/🚀 Explore%20More%20Projects-8B5CF6?style=for-the-badge&logo=github" alt="Explore More Projects">
+          </a>
       </div>
     </td>
   </tr>
