@@ -374,8 +374,10 @@ A collection of hands-on projects I built during my **CodeAlpha Internship**, sh
 ---
 
 <div align="center">
-  
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A4dXA5cXk0ZWprZjhjbG16cGpzd2tjM21leWllMGNkaTl5N2VmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Python Coding">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR2MDcxcXYwN3A5aGVna2xmZ3AwdGpmdmw1YXhqNjB5NGx1OTliMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif"
+       width="500"
+       alt="Python Coding" />
+</div>
 
 **Thanks for visiting my profile! Have a great day!** 😊
 
