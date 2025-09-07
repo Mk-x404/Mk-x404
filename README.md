@@ -304,6 +304,51 @@ A collection of practical Python applications showcasing diverse programming ski
   </tr>
 </table>
 
+## 🎓 CodeAlpha Internship Projects  
+
+A collection of hands-on projects I built during my **CodeAlpha Internship**, showcasing my **Python programming, problem-solving, and clean coding skills**.  
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎮 Hangman Game</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/Game-Development-green?style=for-the-badge" alt="Game Development">
+        <img src="https://img.shields.io/badge/CLI-Application-orange?style=for-the-badge" alt="CLI Application">
+      </div>
+      <p align="center">
+        A classic **Hangman Game** implemented in Python 🐍.  
+        Features include word selection, input validation, progress tracking, and win/loss conditions.  
+        This project polished my **logic-building, loops, and string handling skills**.  
+      </p>
+      <div align="center">
+        <a href="https://github.com/Mk-x404/CodeAlpha_Internship/blob/main/Hangman_Game.py">
+          <img src="https://img.shields.io/badge/View-Project-2563EB?style=for-the-badge&logo=github" alt="View Project">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ More Internship Projects</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/Problem--Solving-red?style=for-the-badge" alt="Problem Solving">
+        <img src="https://img.shields.io/badge/CodeAlpha-Internship-yellow?style=for-the-badge" alt="CodeAlpha">
+      </div>
+      <p align="center">
+        More projects from my internship will be added here as I continue working on them.  
+        Stay tuned for updates showcasing **Python-based tools, mini-systems, and algorithms**.
+      </p>
+      <div align="center">
+        <a href="https://github.com/Mk-x404/CodeAlpha_Internship">
+          <img src="https://img.shields.io/badge/Explore-More-Projects-8B5CF6?style=for-the-badge&logo=github" alt="Explore More">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>  
+
+
 ## 📊 Technologies & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-plastic&logo=python&logoColor=white)
