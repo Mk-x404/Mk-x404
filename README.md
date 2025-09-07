@@ -14,7 +14,10 @@
 ## 🚀 About Me
 
 <div align="center">
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwdWNhbmtrYnd2bHQxam9jdDNvZDFqcGVnbG9nc3FndHA3cjA2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="550" alt="Coding GIF">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhzN3UzYnJhcjVmbHRxMG1lY2pvdWwydWU3ajJsZ2V4d3dmOTVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550" alt="Coding GIF">
+</p>
+
 
 </div>
 
