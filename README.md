@@ -339,26 +339,14 @@ A collection of hands-on projects I built during my **CodeAlpha Internship**, sh
   </tr>
 </table>  
 
-## 📈 GitHub Stats
-
-![Python Practice](https://github-readme-stats.vercel.app/api/pin/?username=Mk-x404&repo=Python-practice&theme=radical)
-
----
-
-⭐️ From [Mk-x404](https://github.com/Mk-x404)
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mk-x404)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhib-khan-x73)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me._.muhiiib)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhibbb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhibk968@gmail.com)
 
 </div>
 
