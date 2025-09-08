@@ -4,9 +4,6 @@
 <p align="center">
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&pause=1000&color=FF0000&background=FFFFFF00&center=true&width=650&lines=PYTHON+DEVELOPER;A.I+%26+DATA+SCIENCE+LEARNER;FUTURE+ML+ENGINEER" />
 </p>
-
-
-
 </div>
 
 ---
@@ -17,17 +14,13 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhzN3UzYnJhcjVmbHRxMG1lY2pvdWwydWU3ajJsZ2V4d3dmOTVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550" alt="Coding GIF">
 </p>
-
-
 </div>
 
----
-
 <div align="center">
-
 I am **Muhib**, a passionate **Python Developer** currently diving deep into the fascinating world of **Artificial Intelligence, Data Science, and Machine Learning**. I'm building my skills step by step, focusing on creating a strong foundation before advancing to more complex concepts.
 
 > "Every expert was once a beginner — I am building my journey step by step towards becoming a Data Scientist and AI Engineer."
+</div>
 
 ---
 
@@ -38,7 +31,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 ### 🐍 Python Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=000000" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000" alt="Jupyter">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000" alt="Google Colab">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=000000" alt="Anaconda">
 </p>
@@ -47,7 +40,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=000000" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-0C7B93?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=000000" alt="Seaborn">
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000" alt="Plotly">
 </p>
@@ -60,8 +53,8 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 ### ⚡ Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000" alt="PyTorch">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000" alt="Scikit-Learn">
 </p>
 
@@ -78,7 +71,6 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" alt="CSS3">
 </p>
-
 
 </div>
 
@@ -102,6 +94,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 **🚀 Always learning new technologies and expanding my skill set!**
 
 </div>
+
 ---
 
 ## 📈 GitHub Stats
@@ -115,6 +108,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 </div>
 
 ---
+
 ## 📊 GitHub Analytics &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <div align="center">
@@ -124,17 +118,15 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 | | |
 | :--- | :--- |
 | **👥 Followers** | ![Followers](https://img.shields.io/github/followers/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black) |
-| **📌 Following** |![GitHub Followers](https://img.shields.io/github/followers/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black&label=Followers) |
+| **📌 Following** | ![Following](https://img.shields.io/github/following/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black&label=Following) |
 | **⭐ Total Stars** | ![Total Stars](https://img.shields.io/github/stars/Mk-x404?style=for-the-badge&logo=github&color=yellow&labelColor=black) |
-| **📊 Contributions** | ![Contributions](https://img.shields.io/github/contributors/Mk-x404/Python-practice?style=for-the-badge&logo=github&color=blue&labelColor=black) |
-
+| **📊 Public Repos** | ![Public Repos](https://img.shields.io/github/public-repositories/Mk-x404?style=for-the-badge&logo=github&color=blue&labelColor=black) |
 
 </div>
 
 ---
 
 <div align="center">
-
 
 ### 📊 Most Used Languages
 
@@ -152,6 +144,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 </div>
 
+---
 
 ## 📊 Learning Progress
 
@@ -195,6 +188,7 @@ I am **Muhib**, a passionate **Python Developer** currently diving deep into the
 
 </div>
 
+---
 
 # 🐍 Python Projects Portfolio
 
@@ -213,7 +207,7 @@ A collection of practical Python applications showcasing diverse programming ski
       </div>
       <p>Python OOP project for banking operations including account creation, deposits, withdrawals, and balance inquiries.</p>
       <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Bank%20Account%20Managment%20System.py">
+        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Bank%20Account%20Management%20System.py">
           <img src="https://img.shields.io/badge/View-Project-2563EB?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </div>
@@ -227,7 +221,7 @@ A collection of practical Python applications showcasing diverse programming ski
       </div>
       <p>CLI-based e-commerce system with product catalog, shopping cart, order management, and checkout functionality.</p>
       <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Realistic%20mini%20e-commerce%20management%20system.ipynb" target="_blank" rel="noopener noreferrer"">
+        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Realistic%20mini%20e-commerce%20management%20system.ipynb" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/View-Project-8B5CF6?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </div>
@@ -243,7 +237,7 @@ A collection of practical Python applications showcasing diverse programming ski
       </div>
       <p>System for library operations including book tracking, member management, borrow/return processes, and late fee calculations.</p>
       <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Library%20Managment%20System.py">
+        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Library%20Management%20System.py">
           <img src="https://img.shields.io/badge/View-Project-059669?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </div>
@@ -295,9 +289,9 @@ A collection of practical Python applications showcasing diverse programming ski
   </tr>
 </table>
 
-## 🎓 CodeAlpha Internship Projects  
+## 🎓 CodeAlpha Internship Projects
 
-A collection of hands-on projects I built during my **CodeAlpha Internship**, showcasing my **Python programming, problem-solving, and clean coding skills**.  
+A collection of hands-on projects I built during my **CodeAlpha Internship**, showcasing my **Python programming, problem-solving, and clean coding skills**.
 
 <table>
   <tr>
@@ -331,13 +325,13 @@ A collection of hands-on projects I built during my **CodeAlpha Internship**, sh
         Stay tuned for updates showcasing **Python-based tools, mini-systems, and algorithms**.
       </p>
       <div align="center">
-         <a href="https://github.com/Mk-x404/CodeAlpha_Internship">
+        <a href="https://github.com/Mk-x404/CodeAlpha_Internship">
           <img src="https://img.shields.io/badge/🚀 Explore%20More%20Projects-8B5CF6?style=for-the-badge&logo=github" alt="Explore More Projects">
-          </a>
+        </a>
       </div>
     </td>
   </tr>
-</table>  
+</table>
 
 ## 📫 Connect With Me
 
@@ -365,9 +359,5 @@ A collection of hands-on projects I built during my **CodeAlpha Internship**, sh
 ---
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR2MDcxcXYwN3A5aGVna2xmZ3AwdGpmdmw1YXhqNjB5NGx1OTliMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif"
-       width="400"
-       alt="Python Coding" />
-</div>
-
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR2MDcxcXYwN3A5aGVna2xmZ3AwdGpmdmw1YXhqNjB5NGx1OTliMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="400" alt="Python Coding" />
 </div>
