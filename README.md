@@ -13,11 +13,11 @@
 <div align="center"> <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550" alt="Coding GIF"> </div> <div align="center"> I am Muhib, a passionate Python Developer currently exploring the fascinating world of Artificial Intelligence, Data Science, and Machine Learning. I'm building my skills step by step, focusing on strong fundamentals before advancing to complex concepts.
 <br>
   <hr>
-  <hr>
+
 “Every expert was once a beginner — I’m building my journey step by step towards becoming a Data Scientist and AI Engineer.”
 
 </div>
----
+  <hr>
 
 ## 🛠️ Tech Stack & Skills
 
