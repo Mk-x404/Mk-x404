@@ -11,7 +11,9 @@
 ## 🚀 About Me
 
 <div align="center"> <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550" alt="Coding GIF"> </div> <div align="center"> I am Muhib, a passionate Python Developer currently exploring the fascinating world of Artificial Intelligence, Data Science, and Machine Learning. I'm building my skills step by step, focusing on strong fundamentals before advancing to complex concepts.
-
+<br>
+  <hr>
+  <hr>
 “Every expert was once a beginner — I’m building my journey step by step towards becoming a Data Scientist and AI Engineer.”
 
 </div>
@@ -168,6 +170,8 @@
 | ![Scientific Computing with Python](https://img.shields.io/badge/Scientific_Computing_with_Python-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) | `freeCodeCamp` | ✅ Completed | [🔗 Verify](https://www.freecodecamp.org/certification/i_muhibbb/scientific-computing-with-python-v7) |
 | ![Python Course](https://img.shields.io/badge/Python_Programming-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) | `Kaggle` | ✅ Completed | [🔗 Verify](https://www.kaggle.com/learn/certification/muhibbb/python) |
 | ![Understanding Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering_Fundamentals-DataCamp-00BFFF?style=for-the-badge&logo=datacamp&logoColor=white) | `DataCamp` | ✅ Completed | [🔗 Verify](https://tinyurl.com/Datacamp-PromptEngineering) |
+| ![Data Science Essentials with Python](https://img.shields.io/badge/Data_Science_Essentials_with_Python-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | `Cisco Networking Academy` | ✅ Completed | [🔗 Verify](https://www.credly.com/badges/d907fb68-5f68-4669-b756-5a2747db903a/public_url) |
+
 
 <br>
 
