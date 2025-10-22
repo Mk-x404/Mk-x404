@@ -10,18 +10,11 @@
 
 ## 🚀 About Me
 
-<div align="center">
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhzN3UzYnJhcjVmbHRxMG1lY2pvdWwydWU3ajJsZ2V4d3dmOTVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550" alt="Coding GIF">
-</p>
+<div align="center"> <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550" alt="Coding GIF"> </div> <div align="center"> I am **Muhib**, a passionate **Python Developer** currently exploring the fascinating world of **Artificial Intelligence, Data Science, and Machine Learning**. I'm building my skills step by step, focusing on strong fundamentals before advancing to complex concepts.
+
+“Every expert was once a beginner — I’m building my journey step by step towards becoming a Data Scientist and AI Engineer.”
+
 </div>
-
-<div align="center">
-I am **Muhib**, a passionate **Python Developer** currently diving deep into the fascinating world of **Artificial Intelligence, Data Science, and Machine Learning**. I'm building my skills step by step, focusing on creating a strong foundation before advancing to more complex concepts.
-
-> "Every expert was once a beginner — I am building my journey step by step towards becoming a Data Scientist and AI Engineer."
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Skills
