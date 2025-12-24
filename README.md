@@ -40,12 +40,6 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000" alt="Plotly">
 </p>
 
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000" alt="SQLite">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" alt="MySQL">
-</p>
-
 ### ⚡ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="TensorFlow">
@@ -77,8 +71,7 @@
 
 **Python Development** ⭐⭐⭐⭐⭐  
 **Data Analysis** ⭐⭐⭐☆☆  
-**Database Management** ⭐⭐⭐☆☆  
-**Machine Learning** ⭐⭐⭐☆☆  
+**Machine Learning** ⭐⭐☆☆☆  
 
 </div>
 
