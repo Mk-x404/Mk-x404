@@ -1,4 +1,4 @@
-# 🤖 Hi, I'm Muhib - Python Developer & AI Enthusiast
+# 🤖 Hi, I'm Muhib - A-I Powered Developer & Software Architect
 
 <div align="center">
 <p align="center">
