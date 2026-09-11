@@ -1,354 +1,126 @@
-# 🤖 Hi, I'm Muhib ~ A.I - Native Full Stack Developer
-
 <div align="center">
+
+# ⚡ Muhib Khan
+### Native AI Full-Stack Developer & Product Designer
+
 <p align="center">
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&pause=1000&color=FF0000&background=FFFFFF00&center=true&width=650&lines=A.I-Powered+Developer;A.I+%26+DATA+SCIENCE+LEARNER;FUTURE+FDE+ENGINEER" />
-</p>
-</div>
-
----
-
-## 🚀 About Me
-
-<div align="center"> <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550" alt="Coding GIF"> </div> <div align="center"> I am Muhib, a passionate Python Developer currently exploring the fascinating world of Artificial Intelligence, Data Science, and Machine Learning. I'm building my skills step by step, focusing on strong fundamentals before advancing to complex concepts.
-<br>
-  <hr>
-
-“Every expert was once a beginner — I’m building my journey step by step towards becoming a Data Scientist and AI Engineer.”
-
-</div>
-  <hr>
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 🐍 Python Ecosystem
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=000000" alt="Anaconda">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Native+AI+Full-Stack+Developer;Designing+Fluid%2C+Tactile+Interfaces;Architecting+Agentic+Workflows;React+19+%E2%80%A2+FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+Python" alt="Typing SVG" />
 </p>
 
-### 📊 Data Science & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=000000" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-0C7B93?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=000000" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000" alt="Plotly">
+<p align="center">
+  <a href="https://linkedin.com/in/muhibkhan-x73"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://datafect.vercel.app"><img src="https://img.shields.io/badge/Live_Studio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+  <a href="mailto:muhibk968@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### ⚡ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000" alt="Scikit-Learn">
-</p>
-
-### 🔧 Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" alt="VS Code">
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000" alt="Jupyter">
-</p>
-
-### 🌐 Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" alt="CSS3">
+<p align="center">
+  <em>"I bridge the gap between autonomous AI capabilities and fluid, polished user experiences."</em>
 </p>
 
 </div>
 
 ---
 
-<div align="center">
+### 💡 What I Do
 
-### 📈 Skill Level Overview
-
-**Python Development** ⭐⭐⭐⭐⭐  
-**Data Analysis** ⭐⭐⭐☆☆  
-**Machine Learning** ⭐⭐☆☆☆  
-
-</div>
+- 🧠 **AI-Native Engineering**: Building applications designed from the ground up around LLMs, in-memory RAG pipelines, and agentic workflows.
+- 🎨 **Product & Interface Craft**: Designing fluid, tactile user experiences with React 19, custom CSS design tokens, and smooth motion physics.
+- ⚡ **Resilient Backend Systems**: Engineering high-throughput asynchronous APIs with FastAPI, Python, and edge-deployed architectures.
 
 ---
 
-<div align="center">
-
-**🚀 Always learning new technologies and expanding my skill set!**
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Mk-x404&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=ffffff&ring_color=6366F1" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mk-x404&theme=radical&hide_border=true&background=00000000&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" /> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff&border_radius=15" alt="Top Languages" /> | |
-
-</div>
-
----
-
-## 📊 GitHub Analytics &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
-<div align="center">
-
-### 👨‍💻 Profile Stats
-
-| | |
-| :--- | :--- |
-| **👥 Followers** | ![Followers](https://img.shields.io/github/followers/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black) |
-| **📌 Following** | ![Following](https://img.shields.io/github/following/Mk-x404?style=for-the-badge&logo=github&color=9cf&labelColor=black&label=Following) |
-| **⭐ Total Stars** | ![Total Stars](https://img.shields.io/github/stars/Mk-x404?style=for-the-badge&logo=github&color=yellow&labelColor=black) |
-| **📊 Public Repos** | ![Public Repos](https://img.shields.io/github/public-repositories/Mk-x404?style=for-the-badge&logo=github&color=blue&labelColor=black) |
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-**🐍 Python Enthusiast • 🚀 Open Source Contributor • 💻 Developer**
-
-[![GitHub](https://img.shields.io/badge/View_All_Repos-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mk-x404?tab=repositories)
-
-</div>
-
----
-
-## 📊 Learning Progress
-
-<div align="center">
-
-### Current Focus Areas
-
-| **Skill** | **Progress** |
-| :--- | :--- |
-| **Python** | ![Python](https://img.shields.io/badge/90%25-6366F1?style=for-the-badge&logo=python&logoColor=white) |
-| **Pandas** | ![Pandas](https://img.shields.io/badge/70%25-6366F1?style=for-the-badge&logo=pandas&logoColor=white) |
-| **NumPy** | ![NumPy](https://img.shields.io/badge/65%25-6366F1?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Data Visualization** | ![Data Visualization](https://img.shields.io/badge/60%25-6366F1?style=for-the-badge&logo=matplotlib&logoColor=white) |
-| **Machine Learning** | ![Machine Learning](https://img.shields.io/badge/40%25-6366F1?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-
-</div>
-
----
-
-## 🎓 Certifications & Courses
-
-<div align="center">
-
-### 🚀 Achievements in Learning
-
-| Certification | Platform | Status | Verification |
-| :--- | :--- | :--- | :--- |
-| ![Scientific Computing with Python](https://img.shields.io/badge/Scientific_Computing_with_Python-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) | `freeCodeCamp` | ✅ Completed | [🔗 Verify](https://www.freecodecamp.org/certification/i_muhibbb/scientific-computing-with-python-v7) |
-| ![Python Course](https://img.shields.io/badge/Python_Programming-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) | `Kaggle` | ✅ Completed | [🔗 Verify](https://www.kaggle.com/learn/certification/muhibbb/python) |
-| ![Understanding Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering_Fundamentals-DataCamp-00BFFF?style=for-the-badge&logo=datacamp&logoColor=white) | `DataCamp` | ✅ Completed | [🔗 Verify](https://tinyurl.com/Datacamp-PromptEngineering) |
-| ![Data Science Essentials with Python](https://img.shields.io/badge/Data_Science_Essentials_with_Python-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | `Cisco Networking Academy` | ✅ Completed | [🔗 Verify](https://www.credly.com/badges/d907fb68-5f68-4669-b756-5a2747db903a/public_url) |
-
-
-<br>
-
-### 📊 Platform Distribution
-
-| Platform | Count |
-| :--- | :--- |
-| **freeCodeCamp** | 1 |
-| **Kaggle** | 1 |
-| **DataCamp** | 1 |
-| **Ciscoo Networking Academy** | 1 |
-
-</div>
-
----
-
-# 🐍 Python Projects Portfolio
-
-A collection of practical Python applications showcasing diverse programming skills.
-
-## 🚀 Featured Projects
+### 🚀 Featured Products
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏦 Bank Management System</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
-        <img src="https://img.shields.io/badge/OOP-Concept-green?style=for-the-badge" alt="OOP">
-        <img src="https://img.shields.io/badge/Data-Persistence-orange?style=for-the-badge" alt="Data Persistence">
-      </div>
-      <p>Python OOP project for banking operations including account creation, deposits, withdrawals, and balance inquiries.</p>
-      <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Bank%20Account%20Management%20System.py">
-          <img src="https://img.shields.io/badge/View-Project-2563EB?style=for-the-badge&logo=github" alt="View Project">
-        </a>
-      </div>
+    <td width="50%" valign="top">
+      <h3 align="left">📊 DataFect</h3>
+      <p><b>Automated EDA & AutoML Web Studio</b></p>
+      <p>Self-healing dataset ingestion, sub-500ms statistical profiling, 1-click multi-model cross-validation, and an in-memory RAG data assistant powered by Gemini 2.0 Flash.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      </p>
+      <p>
+        <a href="https://datafect.vercel.app"><b>🚀 Launch Live Studio →</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/Mk-x404/DataFect"><b>📦 GitHub →</b></a>
+      </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🛒 Mini E-Commerce System</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
-        <img src="https://img.shields.io/badge/CLI-Application-yellow?style=for-the-badge" alt="CLI">
-        <img src="https://img.shields.io/badge/Inventory-Management-red?style=for-the-badge" alt="Inventory">
-      </div>
-      <p>CLI-based e-commerce system with product catalog, shopping cart, order management, and checkout functionality.</p>
-      <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Realistic%20mini%20e-commerce%20management%20system.ipynb" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View-Project-8B5CF6?style=for-the-badge&logo=github" alt="View Project">
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📚 Library Management System</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
-        <img src="https://img.shields.io/badge/File-Handling-orange?style=for-the-badge" alt="File Handling">
-        <img src="https://img.shields.io/badge/Data-Management-brightgreen?style=for-the-badge" alt="Data Management">
-      </div>
-      <p>System for library operations including book tracking, member management, borrow/return processes, and late fee calculations.</p>
-      <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Library%20Management%20System.py">
-          <img src="https://img.shields.io/badge/View-Project-059669?style=for-the-badge&logo=github" alt="View Project">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚗 Showroom Console Program</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
-        <img src="https://img.shields.io/badge/Console-Program-purple?style=for-the-badge" alt="Console">
-        <img src="https://img.shields.io/badge/Inventory-System-lightgrey?style=for-the-badge" alt="Inventory System">
-      </div>
-      <p>Console-based showroom program for vehicle inventory management, customer inquiries, and sales tracking.</p>
-      <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/Showroom%20console%20program.ipynb">
-          <img src="https://img.shields.io/badge/View-Project-DC2626?style=for-the-badge&logo=github" alt="View Project">
-        </a>
-      </div>
+    <td width="50%" valign="top">
+      <h3 align="left">💎 FinX</h3>
+      <p><b>Personal Financial Intelligence Platform</b></p>
+      <p>Full-stack personal wealth engine featuring a custom 5-factor Financial Health Score (A–F), debt amortization trajectories, and a glassmorphic dashboard with fluid motion.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <p>
+        <a href="https://github.com/Mk-x404"><b>📦 View Repository →</b></a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">📋 Complaint Management System</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
-        <img src="https://img.shields.io/badge/CLI-Tool-red?style=for-the-badge" alt="CLI">
-        <img src="https://img.shields.io/badge/Ticketing-System-ff69b4?style=for-the-badge" alt="Ticketing System">
-      </div>
-      <p>Complaint tracking and handling system with ticket generation, status updates, and resolution tracking.</p>
-      <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice/blob/main/complaint%20management%20system.ipynb">
-          <img src="https://img.shields.io/badge/View-Project-D97706?style=for-the-badge&logo=github" alt="View Project">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">⭐ More Projects</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
-        <img src="https://img.shields.io/badge/Various-Domains-9cf?style=for-the-badge" alt="Various Domains">
-        <img src="https://img.shields.io/badge/Open--Source-ff7139?style=for-the-badge" alt="Open Source">
-      </div>
-      <p>Explore more of my Python projects and contributions to open source on my GitHub profile.</p>
-      <div align="center">
-        <a href="https://github.com/Mk-x404/Python-practice">
-          <img src="https://img.shields.io/badge/Explore-More_Projects-6366F1?style=for-the-badge&logo=github" alt="Explore More">
-        </a>
-      </div>
+    <td colspan="2" valign="top">
+      <h3 align="left">⚡ Cloud-Ready POS</h3>
+      <p><b>Autonomous Retail Point-of-Sale Engine</b></p>
+      <p>Full-stack point-of-sale system featuring real-time inventory tracking, transactional sales history, and hardware-synchronized receipt printing for 80mm thermal printers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/REST_API-0288D1?style=flat-square" alt="REST" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <p>
+        <a href="https://github.com/Mk-x404"><b>📦 View Repository →</b></a>
+      </p>
     </td>
   </tr>
 </table>
 
-## 🎓 CodeAlpha Internship Projects
+---
 
-A collection of hands-on projects I built during my **CodeAlpha Internship**, showcasing my **Python programming, problem-solving, and clean coding skills**.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎮 Hangman Game</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
-        <img src="https://img.shields.io/badge/Game-Development-green?style=for-the-badge" alt="Game Development">
-        <img src="https://img.shields.io/badge/CLI-Application-orange?style=for-the-badge" alt="CLI Application">
-      </div>
-      <p align="center">
-        A classic **Hangman Game** implemented in Python 🐍.  
-        Features include word selection, input validation, progress tracking, and win/loss conditions.  
-        This project polished my **logic-building, loops, and string handling skills**.  
-      </p>
-      <div align="center">
-        <a href="https://github.com/Mk-x404/CodeAlpha_Internship/blob/main/Hangman_Game.py">
-          <img src="https://img.shields.io/badge/View-Project-2563EB?style=for-the-badge&logo=github" alt="View Project">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ More Internship Projects</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python">
-        <img src="https://img.shields.io/badge/Problem--Solving-red?style=for-the-badge" alt="Problem Solving">
-        <img src="https://img.shields.io/badge/CodeAlpha-Internship-yellow?style=for-the-badge" alt="CodeAlpha">
-      </div>
-      <p align="center">
-        More projects from my internship will be added here as I continue working on them.  
-        Stay tuned for updates showcasing **Python-based tools, mini-systems, and algorithms**.
-      </p>
-      <div align="center">
-        <a href="https://github.com/Mk-x404/CodeAlpha_Internship">
-          <img src="https://img.shields.io/badge/🚀 Explore%20More%20Projects-8B5CF6?style=for-the-badge&logo=github" alt="Explore More Projects">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 📫 Connect With Me
+### 🛠️ Technical Matrix
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mk-x404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhib-khan-x73)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhibbb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhibk968@gmail.com)
+
+| 🧠 AI & Agentic Systems | 🎨 Product & Frontend Design | ⚙️ Backend & Architecture |
+| :--- | :--- | :--- |
+| **Agentic AI Workflows** | **React 19 & Next.js** | **FastAPI & Uvicorn** |
+| **Grounded RAG Architecture** | **TypeScript (Strict Mode)** | **Node.js & Express** |
+| **Gemini & Claude REST APIs** | **Framer Motion & Micro-UI** | **SQLAlchemy ORM** |
+| **AI-Assisted Prototyping** | **Zero-Dependency CSS Tokens** | **SQLite & PostgreSQL** |
+| **Structured Output Generation** | **Recharts Data Visualizations** | **Docker Containerization** |
+| **Prompt Engineering** | **Responsive & Dark/Light UX** | **Vercel & Render CI/CD** |
 
 </div>
 
 ---
 
+### 📈 Live GitHub Activity
+
 <div align="center">
-  
-### 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Mk-x404&color=6366F1&style=for-the-badge&label=PROFILE+VISITORS)
+  <img src="https://github-readme-stats.vercel.app/api?username=Mk-x404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=00F0FF&text_color=94A3B8" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mk-x404&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=00F0FF&currStreakLabel=00F0FF&sideNums=FFFFFF&currStreakNum=FFFFFF" width="48%" alt="GitHub Streak" />
+</div>
 
-### 👥 Followers
-![GitHub Followers](https://img.shields.io/github/followers/Mk-x404?color=6366F1&style=for-the-badge&logo=github&label=FOLLOWERS)
+<br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" width="48%" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR2MDcxcXYwN3A5aGVna2xmZ3AwdGpmdmw1YXhqNjB5NGx1OTliMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="400" alt="Python Coding" />
+  <p><b>Let's build something extraordinary together.</b></p>
+  <p>
+    <a href="https://linkedin.com/in/muhibkhan-x73">LinkedIn</a> • 
+    <a href="https://github.com/Mk-x404">GitHub</a> • 
+    <a href="https://datafect.vercel.app">DataFect Studio</a> • 
+    <a href="mailto:muhibk968@gmail.com">muhibk968@gmail.com</a>
+  </p>
 </div>
