@@ -1,313 +1,299 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║  MUHIB KHAN — GitHub Profile README                             ║
-     ║  Identity: Native AI Full-Stack Developer                       ║
-     ║  Art Direction: Raw editorial · Warm monochrome · Amber accent  ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════════╗
+     ║  MUHIB KHAN — GITHUB PROFILE README                                          ║
+     ║  Positioning: Native AI Full-Stack Developer                                 ║
+     ║  Aesthetic: High-Tech Modern · Amber & Slate Accent · Precision Typography   ║
+     ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐
-     │  01 · HERO — name + role + tagline                              │
-     └─────────────────────────────────────────────────────────────────┘ -->
-
-<!-- NAME — large serif display -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=68&pause=99999&color=F0EDE8&center=true&vCenter=true&width=750&height=100&lines=Muhib+Khan" alt="Muhib Khan" />
+<!-- HERO SECTION: DISPLAY NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=58&pause=99999&color=FFFFFF&center=true&vCenter=true&width=750&height=85&lines=Muhib+Khan" alt="Muhib Khan" />
 
 <br/>
 
-<!-- ROLE — monospaced, uppercase, muted -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&pause=99999&color=E8C547&center=true&vCenter=true&width=560&height=26&lines=%E2%96%B6%20%20NATIVE+AI+FULL%E2%80%93STACK+DEVELOPER%20%20%E2%97%80" alt="Native AI Full-Stack Developer" />
+<!-- PRIMARY ROLE: NATIVE AI FULL-STACK DEVELOPER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=F59E0B&center=true&vCenter=true&width=580&height=28&lines=%E2%96%B6%20%20NATIVE+AI+FULL%E2%80%93STACK+DEVELOPER%20%20%E2%97%80" alt="Native AI Full-Stack Developer" />
 
 <br/><br/>
 
-<!-- TAGLINE — the one-liner that defines everything -->
-<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=400&size=19&pause=99999&color=9CA3AF&center=true&vCenter=true&width=640&height=34&lines=I+don%E2%80%99t+write+every+line.+I+architect+every+product." alt="Tagline" />
+<!-- TAGLINE: VALUE PROPOSITION -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&pause=99999&color=A1A1AA&center=true&vCenter=true&width=680&height=32&lines=Architecting+intelligent%2C+resilient+full-stack+systems+with+modern+AI+infrastructure." alt="Tagline" />
 
 <br/><br/>
 
-<!-- ANIMATED IDENTITY CYCLE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=1400&color=6B7280&center=true&vCenter=true&width=680&height=30&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Supabase;Directing+Claude%2C+ChatGPT+%26+Gemini+as+dev+infrastructure;Prompt+engineering+%C2%B7+Agentic+workflows+%C2%B7+LLM+integration;Learning+by+building.+Shipping+by+thinking." alt="Identity cycle" />
+<!-- DYNAMIC TYPING: SKILL & STACK HIGHLIGHTS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=1600&color=94A3B8&center=true&vCenter=true&width=720&height=32&lines=React+19+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+Python+%C2%B7+Next.js+15;Directing+Claude+3.7%2C+ChatGPT+%26+Gemini+as+development+infrastructure;Grounded+RAG+Architectures+%C2%B7+Autonomous+Agentic+Loops+%C2%B7+Tool+Calling;From+architectural+specification+to+hardened+production+deployments." alt="Focus cycle" />
 
 <br/><br/>
 
-<!-- STATUS INDICATOR -->
-<img src="https://img.shields.io/badge/%E2%97%8F%20%20OPEN%20TO-Freelance%20%C2%B7%20Collabs%20%C2%B7%20Product%20Roles-E8C547?style=flat-square&labelColor=0f0f0f&color=0f0f0f&logoColor=E8C547" alt="Open to" />
+<!-- STATUS BADGE -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20%20STATUS-Open%20to%20Full--Stack%20%26%20AI%20Engineering%20Roles-F59E0B?style=flat-square&labelColor=090D16&color=090D16" alt="Status" />
 
 <br/><br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐
-     │  SOCIAL ROW                                                      │
-     └─────────────────────────────────────────────────────────────────┘ -->
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-%40muhibkhan-F0EDE8?style=flat-square&logo=github&logoColor=0a0a0a&labelColor=F0EDE8" alt="GitHub" />
+<!-- QUICK CONTACT & ACTION PILLS -->
+<a href="https://github.com/Mk-x404">
+  <img src="https://img.shields.io/badge/GitHub-Mk--x404-0D1117?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub Profile" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0A66C2" alt="LinkedIn" />
+<a href="https://linkedin.com/in/muhibkhan-x73">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhib%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="LinkedIn Profile" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Write%20Me-111111?style=flat-square&logo=gmail&logoColor=E8C547&labelColor=111111" alt="Email" />
+<a href="mailto:muhibk968@gmail.com">
+  <img src="https://img.shields.io/badge/Email-muhibk968%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=EA4335" alt="Direct Email" />
 </a>
 &nbsp;
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-muhibkhan.dev-111111?style=flat-square&logo=vercel&logoColor=E8C547&labelColor=111111" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://upwork.com/freelancers/YOUR_UPWORK_PROFILE">
-  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=flat-square&logo=upwork&logoColor=ffffff&labelColor=14A800" alt="Upwork" />
+<a href="https://datafect.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Studio-DataFect-F59E0B?style=flat-square&logo=vercel&logoColor=090D16&labelColor=F59E0B" alt="Live Studio" />
 </a>
 
-<br/>
+<br/><br/>
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
+---
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐
-     │  02 · IDENTITY BLOCK — what "Native AI" actually means          │
-     └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     01 · THE NATIVE AI PARADIGM
+     ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=380&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+WHAT+%22NATIVE+AI%22+MEANS+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="What Native AI means" />
+<img src="https://img.shields.io/badge/01%20%2F%2F%20PARADIGM-HOW%20I%20BUILD-F59E0B?style=flat-square&labelColor=090D16" alt="Section 01" />
 
-<br/><br/>
+<h2>The Native AI Engineering Paradigm</h2>
 
-```
-  ╭──────────────────────────────────────────────────────────────────╮
-  │                                                                    │
-  │   I use Claude, ChatGPT, and Gemini the way other developers      │
-  │   use their IDE — as infrastructure, not a shortcut.              │
-  │                                                                    │
-  │   I architect. I prompt. I review. I ship.                        │
-  │                                                                    │
-  │   AI handles the velocity. I own the judgment.                    │
-  │                                                                    │
-  ╰──────────────────────────────────────────────────────────────────╯
-```
+<p><em>AI is not a shortcut or an auto-complete gimmick — it is high-leverage software infrastructure.</em></p>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
-
-<br/>
-
-<!-- ┌─────────────────────────────────────────────────────────────────┐
-     │  03 · STACK — curated, layered, not dumped                      │
-     └─────────────────────────────────────────────────────────────────┘ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=340&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+TECHNICAL+STACK+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Stack" />
-
-<br/><br/>
-
-<!-- FRONTEND LAYER -->
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark&perline=5" alt="React · Next.js · TypeScript · JavaScript · Tailwind CSS" />
-</p>
-<sub><code>&nbsp;FRONTEND LAYER&nbsp;</code></sub>
-
-<br/><br/>
-
-<!-- BACKEND + DATA LAYER -->
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,supabase,sqlite&theme=dark&perline=5" alt="Python · FastAPI · Flask · Supabase · SQLite" />
-</p>
-<sub><code>&nbsp;BACKEND + DATA&nbsp;</code></sub>
-
-<br/><br/>
-
-<!-- DATA SCIENCE LAYER -->
-<p>
-<img src="https://skillicons.dev/icons?i=anaconda,sklearn&theme=dark&perline=2" alt="Pandas / NumPy / scikit-learn" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0f0f0f" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0f0f0f" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white&labelColor=0f0f0f" alt="Matplotlib" />
-</p>
-<sub><code>&nbsp;DATA SCIENCE&nbsp;</code></sub>
-
-<br/><br/>
-
-<!-- WORKFLOW LAYER -->
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark&perline=4" alt="Git · GitHub · Vercel · VS Code" />
-</p>
-<sub><code>&nbsp;WORKFLOW&nbsp;</code></sub>
-
-<br/><br/>
-
-<!-- AI LAYER — the differentiator -->
-<p>
-<img src="https://img.shields.io/badge/Claude-Anthropic-D4A843?style=flat-square&logo=anthropic&logoColor=0a0a0a&labelColor=1a1a1a" alt="Claude" />
-&nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?style=flat-square&logo=openai&logoColor=ffffff&labelColor=1a1a1a" alt="ChatGPT" />
-&nbsp;
-<img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=google&logoColor=ffffff&labelColor=1a1a1a" alt="Gemini" />
-&nbsp;
-<img src="https://img.shields.io/badge/n8n-Agentic-EA4B71?style=flat-square&logo=n8n&logoColor=ffffff&labelColor=1a1a1a" alt="n8n" />
-&nbsp;
-<img src="https://img.shields.io/badge/RAG-LLM%20Systems-E8C547?style=flat-square&labelColor=1a1a1a" alt="RAG" />
-&nbsp;
-<img src="https://img.shields.io/badge/Prompt%20Eng.-RISEN%20%2B%20ReAct-6B7280?style=flat-square&labelColor=1a1a1a" alt="Prompt Engineering" />
-</p>
-<sub><code>&nbsp;AI LAYER — THE DIFFERENTIATOR&nbsp;</code></sub>
-
-<br/><br/>
-
-<!-- REST APIs -->
-<img src="https://img.shields.io/badge/REST%20APIs-Integration-FF6C37?style=flat-square&logo=postman&logoColor=ffffff&labelColor=1a1a1a" alt="REST APIs" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-Prompt%20Templates-1C3C3C?style=flat-square&logo=langchain&logoColor=ffffff&labelColor=1a1a1a" alt="LangChain" />
-&nbsp;
-<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=flat-square&logo=ollama&logoColor=ffffff&labelColor=1a1a1a" alt="Ollama" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
-
-<br/>
-
-<!-- ┌─────────────────────────────────────────────────────────────────┐
-     │  04 · SELECTED BUILDS — visual-first project cards              │
-     └─────────────────────────────────────────────────────────────────┘ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=340&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+SELECTED+BUILDS+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Selected Builds" />
-
-</div>
-
-<br/>
-
-<table align="center" width="94%">
+<table align="center" width="96%">
 <tr>
+<td width="33%" valign="top">
+<h4>⚡ Velocity with Governance</h4>
+<p>
+I leverage state-of-the-art LLMs (Claude 3.7 Sonnet, OpenAI o3/GPT-4o, Gemini 2.0) to draft, scaffold, and explore at 10x traditional developer velocity — while enforcing strict end-to-end type safety, deterministic schemas, and zero unvetted dependencies.
+</p>
+</td>
+<td width="33%" valign="top">
+<h4>🧠 Grounded Intelligence</h4>
+<p>
+Production AI requires deterministic grounding. I build RAG systems, function-calling pipelines, and autonomous agent loops with structured schemas (Pydantic & Zod) that eliminate hallucination and tie model outputs to real-world data truth.
+</p>
+</td>
+<td width="33%" valign="top">
+<h4>🛡️ Human Architectural Ownership</h4>
+<p>
+The model writes lines; I architect systems. Every component boundary, state flow, API contract, database index, error boundary, and security guardrail is intentionally designed, rigorously reviewed, and battle-tested before deployment.
+</p>
+</td>
+</tr>
+</table>
 
-<!-- ── PROJECT 01 ── -->
-<td width="50%" valign="top" align="center">
 <br/>
 
-<img src="https://img.shields.io/badge/01-AI%20PLATFORM-E8C547?style=flat-square&labelColor=0f0f0f" alt="01" />
+---
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     02 · TECHNICAL ARSENAL
+     ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/02%20%2F%2F%20STACK-TECHNICAL%20ARSENAL-F59E0B?style=flat-square&labelColor=090D16" alt="Section 02" />
+
+<h2>Core Technology Stack</h2>
+
+<p><em>Production-proven languages, frameworks, AI platforms, and cloud infrastructure.</em></p>
+
+<br/>
+
+<!-- FRONTEND & USER INTERFACE -->
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark&perline=8" alt="Frontend Technologies" />
+</p>
+<sub><code>&nbsp;FRONTEND &amp; INTERFACE ARCHITECTURE&nbsp;• React 19 · Next.js 15 · TypeScript · Tailwind CSS · Vite</code></sub>
 
 <br/><br/>
 
-**DataFect**
-
-<sub>AI-augmented data analysis & prediction platform.<br/>Raw datasets → actionable insights, built for non-coders.</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=3670A0" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-0f0f0f?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-<img src="https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Pandas-0f0f0f?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas" />
+<!-- BACKEND & SERVICES -->
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express&theme=dark&perline=5" alt="Backend Technologies" />
+</p>
+<sub><code>&nbsp;BACKEND &amp; API SYSTEMS&nbsp;• Python 3.12 · FastAPI · Flask · Node.js · REST &amp; WebSockets</code></sub>
 
 <br/><br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repository%20→-1a1a1a?style=flat-square&logo=github&logoColor=F0EDE8)](https://github.com/YOUR_GITHUB_USERNAME/datafect)
+<!-- AI & AGENTIC INFRASTRUCTURE -->
+<p>
+<img src="https://img.shields.io/badge/Claude_3.7-Anthropic-D97706?style=flat-square&logo=anthropic&logoColor=FFFFFF&labelColor=090D16" alt="Claude 3.7" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAI_o3_%2F_GPT--4o-10A37F?style=flat-square&logo=openai&logoColor=FFFFFF&labelColor=090D16" alt="OpenAI" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini_2.0_Flash-Google-4285F4?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=090D16" alt="Gemini" />
+&nbsp;
+<img src="https://img.shields.io/badge/RAG_Pipelines-Grounded-F59E0B?style=flat-square&labelColor=090D16" alt="RAG Pipelines" />
+&nbsp;
+<img src="https://img.shields.io/badge/Agentic_AI-Tool_Calling-6366F1?style=flat-square&labelColor=090D16" alt="Agentic AI" />
+</p>
+<sub><code>&nbsp;AI &amp; INTELLIGENT SYSTEMS&nbsp;• Multi-Model Orchestration · Grounded RAG · Tool Calling · Pydantic</code></sub>
+
+<br/><br/>
+
+<!-- DATA, DATABASES & CLOUD -->
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,docker,git,github,vercel&theme=dark&perline=7" alt="Databases and DevOps" />
+</p>
+<sub><code>&nbsp;DATA &amp; CLOUD PLATFORMS&nbsp;• PostgreSQL · Supabase · SQLite · Docker · Vercel · Render · Git</code></sub>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     03 · FEATURED PRODUCTION BUILDS
+     ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/03%20%2F%2F%20PORTFOLIO-FEATURED%20BUILDS-F59E0B?style=flat-square&labelColor=090D16" alt="Section 03" />
+
+<h2>Featured Production Builds</h2>
+
+<p><em>Engineered with intent — end-to-end architectures, robust error-handling, and clean design.</em></p>
+
+</div>
+
+<br/>
+
+<table align="center" width="96%">
+
+<!-- ── PROJECT 01: DATAFECT (FLAGSHIP) ── -->
+<tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+<br/>
+<img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-DATAFECT-F59E0B?style=flat-square&labelColor=090D16" alt="Flagship Project" />
+<h3><b>DataFect — Automated EDA &amp; Baseline AutoML Web Studio</b></h3>
+<p><em>Autonomous dataset ingestion, sub-500ms statistical profiling, and grounded AI conversation against raw tabular data.</em></p>
+</div>
+
+<p>
+<b>The Challenge &amp; Architecture:</b>
+Real-world data ingestion frequently crashes on mixed encodings (UTF-8, Latin-1, Windows-1252), irregular delimiters, and dirty rows. DataFect solves this with a self-healing parsing engine that sniffs delimiters, cascades encodings, and cleans headers automatically. Built with a <b>FastAPI</b> asynchronous backend and a modern <b>React 19 / TypeScript</b> interface, it computes IQR outlier fences, Spearman/Pearson correlation matrices, and trains 3 baseline machine learning regressors/classifiers in seconds. Integrated with <b>Gemini 2.0 Flash</b> via an in-memory RAG data assistant for conversational exploratory data analysis.
+</p>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+&nbsp;
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=090D16" alt="React 19" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+<br/><br/>
+
+<a href="https://datafect.vercel.app">
+  <img src="https://img.shields.io/badge/Launch%20Live%20Studio%20%E2%86%92-F59E0B?style=flat-square&logo=vercel&logoColor=090D16&labelColor=F59E0B" alt="Live Demo" />
+</a>
+&nbsp;
+<a href="https://github.com/Mk-x404/DataFect">
+  <img src="https://img.shields.io/badge/Explore%20Source%20Code%20%E2%86%92-0D1117?style=flat-square&logo=github&logoColor=white" alt="DataFect Repo" />
+</a>
+</div>
 
 <br/>
 </td>
-
-<!-- ── PROJECT 02 ── -->
-<td width="50%" valign="top" align="center">
-<br/>
-
-<img src="https://img.shields.io/badge/02-SAAS%20TOOL-E8C547?style=flat-square&labelColor=0f0f0f" alt="02" />
-
-<br/><br/>
-
-**Resumic**
-
-<sub>AI-assisted resume builder.<br/>Structured input → polished, role-ready output.</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=nextdotjs&logoColor=F0EDE8" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-0f0f0f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind-0f0f0f?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Supabase-0f0f0f?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-
-<br/><br/>
-
-[![View Repo](https://img.shields.io/badge/View%20Repository%20→-1a1a1a?style=flat-square&logo=github&logoColor=F0EDE8)](https://github.com/YOUR_GITHUB_USERNAME/resumic)
-
-<br/>
-</td>
-
 </tr>
 
-<tr><td colspan="2" height="8"></td></tr>
+<tr><td colspan="2" height="15"></td></tr>
 
+<!-- ── PROJECTS 02 & 03: FINX & CLOUD POS ── -->
 <tr>
 
-<!-- ── PROJECT 03 ── -->
-<td width="50%" valign="top" align="center">
+<!-- PROJECT 02: FINX -->
+<td width="50%" valign="top">
 <br/>
+<div align="center">
+<img src="https://img.shields.io/badge/PROJECT%2002-FINX-F59E0B?style=flat-square&labelColor=090D16" alt="Project 02" />
+<h4><b>FinX — Financial Operating Platform</b></h4>
+<p><em>Personal wealth intelligence platform with real-time health grading.</em></p>
+</div>
 
-<img src="https://img.shields.io/badge/03-FINANCE%20APP-E8C547?style=flat-square&labelColor=0f0f0f" alt="03" />
+<p>
+<b>System Design:</b>
+Features a proprietary 5-factor Financial Health Score algorithm (A–F) assessing liquidity, debt ratio, savings velocity, and discretionary burn. Engineered with responsive motion physics, categorical expense breakdowns, and encrypted local SQLite data persistence.
+</p>
+
+<div align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=090D16" alt="React" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 
 <br/><br/>
 
-**FinX**
-
-<sub>PKR-native personal finance dashboard.<br/>Expense tracking built for Pakistan.</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Flask-0f0f0f?style=flat-square&logo=flask&logoColor=F0EDE8" alt="Flask" />
-<img src="https://img.shields.io/badge/SQLite-0f0f0f?style=flat-square&logo=sqlite&logoColor=07405E" alt="SQLite" />
-<img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=3670A0" alt="Python" />
-
-<br/><br/>
-
-[![View Repo](https://img.shields.io/badge/View%20Repository%20→-1a1a1a?style=flat-square&logo=github&logoColor=F0EDE8)](https://github.com/YOUR_GITHUB_USERNAME/finx)
+<a href="https://github.com/Mk-x404">
+  <img src="https://img.shields.io/badge/View%20Repository%20%E2%86%92-0D1117?style=flat-square&logo=github&logoColor=white" alt="FinX Repo" />
+</a>
+</div>
 
 <br/>
 </td>
 
-<!-- ── PROJECT 04 ── -->
-<td width="50%" valign="top" align="center">
+<!-- PROJECT 03: POS SYSTEM -->
+<td width="50%" valign="top">
 <br/>
+<div align="center">
+<img src="https://img.shields.io/badge/PROJECT%2003-RETAIL%20POS-F59E0B?style=flat-square&labelColor=090D16" alt="Project 03" />
+<h4><b>Cloud-Ready POS — Retail Engine</b></h4>
+<p><em>Offline-tolerant retail billing system with ESC/POS thermal printing.</em></p>
+</div>
 
-<img src="https://img.shields.io/badge/04-BUSINESS%20TOOL-E8C547?style=flat-square&labelColor=0f0f0f" alt="04" />
+<p>
+<b>System Design:</b>
+High-reliability point-of-sale platform handling inventory tracking, instant barcode lookup, and transaction ledgers. Includes custom hardware integration communicating with 80mm ESC/POS thermal receipt printers over serial/USB with raw spooling.
+</p>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+&nbsp;
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=090D16" alt="JavaScript" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 
 <br/><br/>
 
-**POS System**
-
-<sub>Business billing & point-of-sale application.<br/>Invoice generation, inventory management, ready to deploy.</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=3670A0" alt="Python" />
-<img src="https://img.shields.io/badge/SQLite-0f0f0f?style=flat-square&logo=sqlite&logoColor=07405E" alt="SQLite" />
-<img src="https://img.shields.io/badge/REST%20API-0f0f0f?style=flat-square&logo=fastapi&logoColor=FF6C37" alt="REST API" />
-
-<br/><br/>
-
-[![View Repo](https://img.shields.io/badge/View%20Repository%20→-1a1a1a?style=flat-square&logo=github&logoColor=F0EDE8)](https://github.com/YOUR_GITHUB_USERNAME/pos-system)
+<a href="https://github.com/Mk-x404">
+  <img src="https://img.shields.io/badge/View%20Repository%20%E2%86%92-0D1117?style=flat-square&logo=github&logoColor=white" alt="POS Repo" />
+</a>
+</div>
 
 <br/>
 </td>
@@ -317,151 +303,125 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
+---
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐
-     │  05 · HOW I WORK — the differentiator section                   │
-     └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     04 · EXECUTION WORKFLOW
+     ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=320&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+HOW+I+WORK+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="How I Work" />
+<img src="https://img.shields.io/badge/04%20%2F%2F%20METHODOLOGY-EXECUTION%20FLOW-F59E0B?style=flat-square&labelColor=090D16" alt="Section 04" />
 
-<br/><br/>
+<h2>The Native AI Workflow</h2>
 
-<!-- expandable section — GitHub supports <details> natively -->
-<details>
-<summary><b><code>► THE NATIVE AI WORKFLOW</code></b></summary>
+<p><em>A structured 4-stage pipeline that bridges rapid prototyping and enterprise stability.</em></p>
 
 <br/>
 
-```
-  ARCHITECT     Define the system. Spec the data flow. Own the decisions.
-      ↓
-  PROMPT        Write precision prompts using RISEN + TIDD-EC + ReAct.
-      ↓
-  DIRECT        Claude / ChatGPT / Gemini generate the code.
-      ↓
-  REVIEW        Read every output. Catch logic errors. Fix what matters.
-      ↓
-  SHIP          Working software. Real users. Actual products.
-```
-
-<br/>
-
-> The model writes the lines. I write the architecture.
-
-<br/>
-
-</details>
-
-<details>
-<summary><b><code>► EDUCATION & CONTEXT</code></b></summary>
-
-<br/>
-
-```
-  B.Sc. Data Science         University of Sindh, Jamshoro
-  Data Science & AI Program  SMIT — Saylani Mass IT Training
-  Location                   Hyderabad, Pakistan
-  Mode                       Learning by building, refining by shipping
-```
-
-<br/>
-
-</details>
-
-<details>
-<summary><b><code>► CURRENTLY EXPLORING</code></b></summary>
-
-<br/>
-
-```
-  ▸  Agentic AI workflows  →  n8n · LangChain · RAG pipelines
-  ▸  Local LLMs            →  Ollama · open-weight models
-  ▸  Full-stack depth      →  TypeScript patterns · Next.js App Router
-  ▸  System design         →  scalable architecture · API design
-  ▸  Freelancing           →  Upwork · Fiverr · direct clients
-```
-
-<br/>
-
-</details>
+<table align="center" width="96%">
+<tr>
+<td width="25%" align="center" valign="top">
+<h4>1. ARCHITECT</h4>
+<p><sub>Define system boundaries, relational schemas, API contracts, state trees, and data validation rules before code generation starts.</sub></p>
+</td>
+<td width="25%" align="center" valign="top">
+<h4>2. ORCHESTRATE</h4>
+<p><sub>Direct frontier LLMs with structured prompts, chain-of-thought instructions, and codebase indexing to write modular implementations.</sub></p>
+</td>
+<td width="25%" align="center" valign="top">
+<h4>3. HARDEN</h4>
+<p><sub>Audit types, eliminate security vulnerabilities, verify error boundaries, and write automated integration tests to ensure reliability.</sub></p>
+</td>
+<td width="25%" align="center" valign="top">
+<h4>4. DEPLOY</h4>
+<p><sub>Package into lightweight Docker containers, establish CI/CD workflows, and deploy to resilient cloud infrastructure (Vercel & Render).</sub></p>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
+---
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐
-     │  06 · GITHUB ACTIVITY — subtle, not the star of the show        │
-     └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     05 · GITHUB ACTIVITY & METRICS
+     ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=300&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+ACTIVITY+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Activity" />
+<img src="https://img.shields.io/badge/05%20%2F%2F%20METRICS-TELEMETRY-F59E0B?style=flat-square&labelColor=090D16" alt="Section 05" />
 
-<br/><br/>
+<h2>GitHub Telemetry &amp; Velocity</h2>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=E8C547&icon_color=E8C547&text_color=6B7280&bg_color=0a0a0a&ring_color=E8C547&custom_title=Contributions" alt="GitHub Stats" />
+<p><em>Continuous shipping, commit consistency, and open-source contributions.</em></p>
+
+<br/>
+
+<a href="https://github.com/Mk-x404">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mk-x404&show_icons=true&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=94A3B8&bg_color=090D16&ring_color=F59E0B&custom_title=GitHub%20Contributions" alt="GitHub Stats" />
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&title_color=E8C547&text_color=6B7280&bg_color=0a0a0a&layout=compact&langs_count=7&custom_title=Languages" alt="Top Languages" />
+<a href="https://github.com/Mk-x404">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&hide_border=true&title_color=F59E0B&text_color=94A3B8&bg_color=090D16&layout=compact&langs_count=6&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<!-- STREAK — active indicator -->
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=E8C547&fire=E8C547&currStreakLabel=E8C547&sideLabels=6B7280&dates=4B5563&currStreakNum=F0EDE8&sideNums=F0EDE8&background=0a0a0a&stroke=1a1a1a" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Mk-x404&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF&background=090D16&stroke=1E293B" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
+---
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐
-     │  07 · FOOTER — signature close                                   │
-     └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     06 · FOOTER & SIGNATURE
+     ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=14&pause=99999&color=4B5563&center=true&vCenter=true&width=500&height=30&lines=I+don%E2%80%99t+write+every+line.+I+architect+every+product." alt="Footer tagline" />
+<img src="https://img.shields.io/badge/06%20%2F%2F%20CONNECT-LET'S%20COLLABORATE-F59E0B?style=flat-square&labelColor=090D16" alt="Section 06" />
+
+<h2>Let's Build Something Exceptional</h2>
+
+<p>
+I am actively seeking opportunities where I can apply Native AI full-stack development to build high-impact products.<br/>
+Whether you are building an AI startup, scaling an engineering team, or looking for an architect who ships fast — let's connect.
+</p>
 
 <br/>
 
+<a href="mailto:muhibk968@gmail.com">
+  <img src="https://img.shields.io/badge/Start%20a%20Conversation%20%E2%86%92-F59E0B?style=flat-square&logo=gmail&logoColor=090D16&labelColor=F59E0B" alt="Start a Conversation" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/muhibkhan-x73">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn%20%E2%86%92-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="Connect on LinkedIn" />
+</a>
+
+<br/><br/>
+
 <sub>
-<code>MK</code>
-&nbsp;·&nbsp;
-Native AI Full-Stack Developer
-&nbsp;·&nbsp;
-Hyderabad, Pakistan
-&nbsp;·&nbsp;
-Open to work
+<code>MK-X404</code> &nbsp;•&nbsp; Native AI Full-Stack Developer &nbsp;•&nbsp; Hyderabad, Pakistan &nbsp;•&nbsp; Worldwide Remote
 </sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=1a1a1a&label=profile+views&abbreviated=true" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Mk-x404&style=flat-square&color=090D16&label=PROFILE%20VIEWS&abbreviated=true" alt="Profile Views" />
 
 <br/><br/>
 
-<sub><sup>── ∙ built with intention, not decoration ∙ ──</sup></sub>
+<sub><sup>Built with intention · Architected for performance · Powered by Native AI</sup></sub>
 
 </div>
 
