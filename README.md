@@ -1,357 +1,467 @@
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     ║  MUHIB KHAN — GitHub Profile README                             ║
+     ║  Identity: Native AI Full-Stack Developer                       ║
+     ║  Art Direction: Raw editorial · Warm monochrome · Amber accent  ║
+     ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════
-     HERO BLOCK — name treatment + animated identity
-     ════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │  01 · HERO — name + role + tagline                              │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
+<!-- NAME — large serif display -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=68&pause=99999&color=F0EDE8&center=true&vCenter=true&width=750&height=100&lines=Muhib+Khan" alt="Muhib Khan" />
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=1&section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=1&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=1" />
-</picture>
-
-<br/>
-
-<!-- NAME TREATMENT -->
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=62&pause=99999&color=E8E6E1&center=true&vCenter=true&width=700&height=90&lines=Muhib+Khan" alt="Muhib Khan" />
-
-<br/>
-
-<!-- ROLE LABEL — monospaced editorial -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=99999&color=6B7280&center=true&vCenter=true&width=500&height=28&lines=NATIVE+AI+FULL-STACK+DEVELOPER+%26+PRODUCT+DESIGNER" alt="Role" />
+<!-- ROLE — monospaced, uppercase, muted -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&pause=99999&color=E8C547&center=true&vCenter=true&width=560&height=26&lines=%E2%96%B6%20%20NATIVE+AI+FULL%E2%80%93STACK+DEVELOPER%20%20%E2%97%80" alt="Native AI Full-Stack Developer" />
 
 <br/><br/>
 
-<!-- ANIMATED IDENTITY STRIP -->
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=15&pause=1000&color=E8C547&center=true&vCenter=true&multiline=false&width=680&height=36&lines=Building+at+the+intersection+of+code%2C+design%2C+and+AI.;React+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Supabase;Designing+interfaces+that+feel+intentional.;Learning+by+building.+Refining+by+experimenting." alt="Rotating identity" />
+<!-- TAGLINE — the one-liner that defines everything -->
+<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=400&size=19&pause=99999&color=9CA3AF&center=true&vCenter=true&width=640&height=34&lines=I+don%E2%80%99t+write+every+line.+I+architect+every+product." alt="Tagline" />
 
 <br/><br/>
 
-<!-- STATUS PILL -->
-<img src="https://img.shields.io/badge/%E2%96%B6%20CURRENTLY-Building%20AI%2DPowered%20Products-E8C547?style=flat-square&labelColor=111111&color=1a1a1a&logo=&logoColor=E8C547" alt="Status" />
+<!-- ANIMATED IDENTITY CYCLE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=1400&color=6B7280&center=true&vCenter=true&width=680&height=30&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Supabase;Directing+Claude%2C+ChatGPT+%26+Gemini+as+dev+infrastructure;Prompt+engineering+%C2%B7+Agentic+workflows+%C2%B7+LLM+integration;Learning+by+building.+Shipping+by+thinking." alt="Identity cycle" />
 
 <br/><br/>
 
-<!-- SOCIAL LINKS — minimal icon row -->
+<!-- STATUS INDICATOR -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20%20OPEN%20TO-Freelance%20%C2%B7%20Collabs%20%C2%B7%20Product%20Roles-E8C547?style=flat-square&labelColor=0f0f0f&color=0f0f0f&logoColor=E8C547" alt="Open to" />
+
+<br/><br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │  SOCIAL ROW                                                      │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-muhibkhan-E8E6E1?style=flat-square&logo=github&logoColor=0a0a0a&labelColor=E8E6E1&color=E8E6E1" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-%40muhibkhan-F0EDE8?style=flat-square&logo=github&logoColor=0a0a0a&labelColor=F0EDE8" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0A66C2" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-111111?style=flat-square&logo=gmail&logoColor=E8C547&labelColor=111111&color=111111" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-Write%20Me-111111?style=flat-square&logo=gmail&logoColor=E8C547&labelColor=111111" alt="Email" />
 </a>
 &nbsp;
 <a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-muhibkhan.dev-111111?style=flat-square&logo=vercel&logoColor=E8C547&labelColor=111111&color=111111" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-muhibkhan.dev-111111?style=flat-square&logo=vercel&logoColor=E8C547&labelColor=111111" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://upwork.com/freelancers/YOUR_UPWORK_PROFILE">
+  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=flat-square&logo=upwork&logoColor=ffffff&labelColor=14A800" alt="Upwork" />
 </a>
 
 <br/>
 
 </div>
 
----
+<br/>
 
-<!-- ════════════════════════════════════════════════════════════
-     DIVIDER LINE — editorial rule
-     ════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<sub><sup>── ∙ ──</sup></sub>
-</div>
+<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════
-     STACK SECTION — grouped, intentional, not wall-of-badges
-     ════════════════════════════════════════════════════════════ -->
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │  02 · IDENTITY BLOCK — what "Native AI" actually means          │
+     └─────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&pause=99999&color=6B7280&center=true&vCenter=true&width=300&height=24&lines=——%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+STACK+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94——" alt="Stack header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=380&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+WHAT+%22NATIVE+AI%22+MEANS+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="What Native AI means" />
 
 <br/><br/>
 
-<!-- CORE FRONTEND -->
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark&perline=5" alt="Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
-</p>
-
-<sub><code>FRONTEND</code></sub>
-
-<br/>
-
-<!-- BACKEND / DATA -->
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,sqlite,supabase&theme=dark&perline=5" alt="Backend: Python, FastAPI, Flask, SQLite, Supabase" />
-</p>
-
-<sub><code>BACKEND · DATA</code></sub>
-
-<br/>
-
-<!-- WORKFLOW / TOOLING -->
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark&perline=4" alt="Workflow: Git, GitHub, Vercel, VS Code" />
-</p>
-
-<sub><code>WORKFLOW</code></sub>
-
-<br/>
-
-<!-- AI TOOLS — custom pill row since skillicons doesn't cover these well -->
-<p>
-<img src="https://img.shields.io/badge/Claude-AI%20Dev-D4A843?style=flat-square&logo=anthropic&logoColor=0a0a0a&labelColor=1a1a1a" alt="Claude" />
-&nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-AI%20Dev-10A37F?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a1a" alt="ChatGPT" />
-&nbsp;
-<img src="https://img.shields.io/badge/Gemini-AI%20Dev-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a1a" alt="Google AI" />
-&nbsp;
-<img src="https://img.shields.io/badge/Prompt%20Engineering-Workflow-E8C547?style=flat-square&labelColor=1a1a1a&color=1a1a1a" alt="Prompt Engineering" />
-</p>
-
-<sub><code>AI-AUGMENTED DEVELOPMENT</code></sub>
+```
+  ╭──────────────────────────────────────────────────────────────────╮
+  │                                                                    │
+  │   I use Claude, ChatGPT, and Gemini the way other developers      │
+  │   use their IDE — as infrastructure, not a shortcut.              │
+  │                                                                    │
+  │   I architect. I prompt. I review. I ship.                        │
+  │                                                                    │
+  │   AI handles the velocity. I own the judgment.                    │
+  │                                                                    │
+  ╰──────────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ════════════════════════════════════════════════════════════
-     SELECTED BUILDS — project cards, visual not textual
-     ════════════════════════════════════════════════════════════ -->
+<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
 
 <br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │  03 · STACK — curated, layered, not dumped                      │
+     └─────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&pause=99999&color=6B7280&center=true&vCenter=true&width=360&height=24&lines=——%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+SELECTED+BUILDS+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94——" alt="Builds header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=340&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+TECHNICAL+STACK+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Stack" />
+
+<br/><br/>
+
+<!-- FRONTEND LAYER -->
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark&perline=5" alt="React · Next.js · TypeScript · JavaScript · Tailwind CSS" />
+</p>
+<sub><code>&nbsp;FRONTEND LAYER&nbsp;</code></sub>
+
+<br/><br/>
+
+<!-- BACKEND + DATA LAYER -->
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,supabase,sqlite&theme=dark&perline=5" alt="Python · FastAPI · Flask · Supabase · SQLite" />
+</p>
+<sub><code>&nbsp;BACKEND + DATA&nbsp;</code></sub>
+
+<br/><br/>
+
+<!-- DATA SCIENCE LAYER -->
+<p>
+<img src="https://skillicons.dev/icons?i=anaconda,sklearn&theme=dark&perline=2" alt="Pandas / NumPy / scikit-learn" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0f0f0f" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0f0f0f" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white&labelColor=0f0f0f" alt="Matplotlib" />
+</p>
+<sub><code>&nbsp;DATA SCIENCE&nbsp;</code></sub>
+
+<br/><br/>
+
+<!-- WORKFLOW LAYER -->
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark&perline=4" alt="Git · GitHub · Vercel · VS Code" />
+</p>
+<sub><code>&nbsp;WORKFLOW&nbsp;</code></sub>
+
+<br/><br/>
+
+<!-- AI LAYER — the differentiator -->
+<p>
+<img src="https://img.shields.io/badge/Claude-Anthropic-D4A843?style=flat-square&logo=anthropic&logoColor=0a0a0a&labelColor=1a1a1a" alt="Claude" />
+&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?style=flat-square&logo=openai&logoColor=ffffff&labelColor=1a1a1a" alt="ChatGPT" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=google&logoColor=ffffff&labelColor=1a1a1a" alt="Gemini" />
+&nbsp;
+<img src="https://img.shields.io/badge/n8n-Agentic-EA4B71?style=flat-square&logo=n8n&logoColor=ffffff&labelColor=1a1a1a" alt="n8n" />
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-LLM%20Systems-E8C547?style=flat-square&labelColor=1a1a1a" alt="RAG" />
+&nbsp;
+<img src="https://img.shields.io/badge/Prompt%20Eng.-RISEN%20%2B%20ReAct-6B7280?style=flat-square&labelColor=1a1a1a" alt="Prompt Engineering" />
+</p>
+<sub><code>&nbsp;AI LAYER — THE DIFFERENTIATOR&nbsp;</code></sub>
+
+<br/><br/>
+
+<!-- REST APIs -->
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-FF6C37?style=flat-square&logo=postman&logoColor=ffffff&labelColor=1a1a1a" alt="REST APIs" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-Prompt%20Templates-1C3C3C?style=flat-square&logo=langchain&logoColor=ffffff&labelColor=1a1a1a" alt="LangChain" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=flat-square&logo=ollama&logoColor=ffffff&labelColor=1a1a1a" alt="Ollama" />
 
 </div>
 
 <br/>
 
-<!-- PROJECT GRID — 2-column HTML table for GitHub compatibility -->
-<table align="center" width="92%">
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │  04 · SELECTED BUILDS — visual-first project cards              │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=340&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+SELECTED+BUILDS+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Selected Builds" />
+
+</div>
+
+<br/>
+
+<table align="center" width="94%">
 <tr>
-<td width="50%" valign="top">
 
-<!-- PROJECT 01 — DataFect -->
-<div align="center">
+<!-- ── PROJECT 01 ── -->
+<td width="50%" valign="top" align="center">
+<br/>
 
-**`01`**
+<img src="https://img.shields.io/badge/01-AI%20PLATFORM-E8C547?style=flat-square&labelColor=0f0f0f" alt="01" />
 
-### DataFect
+<br/><br/>
 
-<sub>AI-augmented data analysis & prediction platform</sub>
+**DataFect**
+
+<sub>AI-augmented data analysis & prediction platform.<br/>Raw datasets → actionable insights, built for non-coders.</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=3670A0" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-0f0f0f?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Pandas-0f0f0f?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas" />
 
 <br/><br/>
 
-<sub>Raw datasets → actionable insights. Built for non-coders.</sub>
+[![View Repo](https://img.shields.io/badge/View%20Repository%20→-1a1a1a?style=flat-square&logo=github&logoColor=F0EDE8)](https://github.com/YOUR_GITHUB_USERNAME/datafect)
 
-<br/><br/>
-
-[![Repo](https://img.shields.io/badge/Repository-111111?style=flat-square&logo=github&logoColor=E8E6E1)](https://github.com/YOUR_GITHUB_USERNAME/datafect)
-<!-- [![Live](https://img.shields.io/badge/Live%20Demo-E8C547?style=flat-square&logo=vercel&logoColor=0a0a0a)](https://YOUR_DATAFECT_URL) -->
-
-</div>
-
+<br/>
 </td>
-<td width="50%" valign="top">
 
-<!-- PROJECT 02 — Resumic -->
-<div align="center">
+<!-- ── PROJECT 02 ── -->
+<td width="50%" valign="top" align="center">
+<br/>
 
-**`02`**
+<img src="https://img.shields.io/badge/02-SAAS%20TOOL-E8C547?style=flat-square&labelColor=0f0f0f" alt="02" />
 
-### Resumic
+<br/><br/>
 
-<sub>Resume builder web application</sub>
+**Resumic**
+
+<sub>AI-assisted resume builder.<br/>Structured input → polished, role-ready output.</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=nextdotjs&logoColor=F0EDE8" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-0f0f0f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-0f0f0f?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Supabase-0f0f0f?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 
 <br/><br/>
 
-<sub>Craft professional resumes with AI-assisted content.</sub>
+[![View Repo](https://img.shields.io/badge/View%20Repository%20→-1a1a1a?style=flat-square&logo=github&logoColor=F0EDE8)](https://github.com/YOUR_GITHUB_USERNAME/resumic)
 
-<br/><br/>
-
-[![Repo](https://img.shields.io/badge/Repository-111111?style=flat-square&logo=github&logoColor=E8E6E1)](https://github.com/YOUR_GITHUB_USERNAME/resumic)
-<!-- [![Live](https://img.shields.io/badge/Live%20Demo-E8C547?style=flat-square&logo=vercel&logoColor=0a0a0a)](https://YOUR_RESUMIC_URL) -->
-
-</div>
-
+<br/>
 </td>
+
 </tr>
 
-<tr><td colspan="2"><br/></td></tr>
+<tr><td colspan="2" height="8"></td></tr>
 
 <tr>
-<td width="50%" valign="top">
 
-<!-- PROJECT 03 — FinX -->
-<div align="center">
+<!-- ── PROJECT 03 ── -->
+<td width="50%" valign="top" align="center">
+<br/>
 
-**`03`**
+<img src="https://img.shields.io/badge/03-FINANCE%20APP-E8C547?style=flat-square&labelColor=0f0f0f" alt="03" />
 
-### FinX
+<br/><br/>
 
-<sub>PKR-native personal finance dashboard</sub>
+**FinX**
+
+<sub>PKR-native personal finance dashboard.<br/>Expense tracking built for Pakistan.</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Flask-0f0f0f?style=flat-square&logo=flask&logoColor=F0EDE8" alt="Flask" />
+<img src="https://img.shields.io/badge/SQLite-0f0f0f?style=flat-square&logo=sqlite&logoColor=07405E" alt="SQLite" />
+<img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=3670A0" alt="Python" />
 
 <br/><br/>
 
-<sub>Expense tracking & financial clarity, built for Pakistan.</sub>
+[![View Repo](https://img.shields.io/badge/View%20Repository%20→-1a1a1a?style=flat-square&logo=github&logoColor=F0EDE8)](https://github.com/YOUR_GITHUB_USERNAME/finx)
 
-<br/><br/>
-
-[![Repo](https://img.shields.io/badge/Repository-111111?style=flat-square&logo=github&logoColor=E8E6E1)](https://github.com/YOUR_GITHUB_USERNAME/finx)
-
-</div>
-
+<br/>
 </td>
-<td width="50%" valign="top">
 
-<!-- PROJECT 04 — POS -->
-<div align="center">
+<!-- ── PROJECT 04 ── -->
+<td width="50%" valign="top" align="center">
+<br/>
 
-**`04`**
+<img src="https://img.shields.io/badge/04-BUSINESS%20TOOL-E8C547?style=flat-square&labelColor=0f0f0f" alt="04" />
 
-### POS System
+<br/><br/>
 
-<sub>Business billing & point-of-sale application</sub>
+**POS System**
+
+<sub>Business billing & point-of-sale application.<br/>Invoice generation, inventory management, ready to deploy.</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0a0a0a&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=fff&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=fastapi&logoColor=fff&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=3670A0" alt="Python" />
+<img src="https://img.shields.io/badge/SQLite-0f0f0f?style=flat-square&logo=sqlite&logoColor=07405E" alt="SQLite" />
+<img src="https://img.shields.io/badge/REST%20API-0f0f0f?style=flat-square&logo=fastapi&logoColor=FF6C37" alt="REST API" />
 
 <br/><br/>
 
-<sub>Invoice generation, inventory, and billing — ready to ship.</sub>
+[![View Repo](https://img.shields.io/badge/View%20Repository%20→-1a1a1a?style=flat-square&logo=github&logoColor=F0EDE8)](https://github.com/YOUR_GITHUB_USERNAME/pos-system)
 
-<br/><br/>
-
-[![Repo](https://img.shields.io/badge/Repository-111111?style=flat-square&logo=github&logoColor=E8E6E1)](https://github.com/YOUR_GITHUB_USERNAME/pos-system)
-
-</div>
-
+<br/>
 </td>
+
 </tr>
 </table>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ════════════════════════════════════════════════════════════
-     CURRENT FOCUS — compact editorial block
-     ════════════════════════════════════════════════════════════ -->
+<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
 
 <br/>
 
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │  05 · HOW I WORK — the differentiator section                   │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&pause=99999&color=6B7280&center=true&vCenter=true&width=340&height=24&lines=——%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+CURRENT+FOCUS+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94——" alt="Focus header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=320&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+HOW+I+WORK+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="How I Work" />
 
 <br/><br/>
 
+<!-- expandable section — GitHub supports <details> natively -->
+<details>
+<summary><b><code>► THE NATIVE AI WORKFLOW</code></b></summary>
+
+<br/>
+
 ```
- EXPLORING         →   Agentic AI workflows · LLM-integrated products
- DEEPENING         →   TypeScript · Next.js · System design patterns  
- BUILDING TOWARD   →   Production-grade AI-native full-stack software
- STUDYING AT       →   University of Sindh · SMIT Data Science & AI
+  ARCHITECT     Define the system. Spec the data flow. Own the decisions.
+      ↓
+  PROMPT        Write precision prompts using RISEN + TIDD-EC + ReAct.
+      ↓
+  DIRECT        Claude / ChatGPT / Gemini generate the code.
+      ↓
+  REVIEW        Read every output. Catch logic errors. Fix what matters.
+      ↓
+  SHIP          Working software. Real users. Actual products.
 ```
+
+<br/>
+
+> The model writes the lines. I write the architecture.
+
+<br/>
+
+</details>
+
+<details>
+<summary><b><code>► EDUCATION & CONTEXT</code></b></summary>
+
+<br/>
+
+```
+  B.Sc. Data Science         University of Sindh, Jamshoro
+  Data Science & AI Program  SMIT — Saylani Mass IT Training
+  Location                   Hyderabad, Pakistan
+  Mode                       Learning by building, refining by shipping
+```
+
+<br/>
+
+</details>
+
+<details>
+<summary><b><code>► CURRENTLY EXPLORING</code></b></summary>
+
+<br/>
+
+```
+  ▸  Agentic AI workflows  →  n8n · LangChain · RAG pipelines
+  ▸  Local LLMs            →  Ollama · open-weight models
+  ▸  Full-stack depth      →  TypeScript patterns · Next.js App Router
+  ▸  System design         →  scalable architecture · API design
+  ▸  Freelancing           →  Upwork · Fiverr · direct clients
+```
+
+<br/>
+
+</details>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │  06 · GITHUB ACTIVITY — subtle, not the star of the show        │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&pause=99999&color=E8C547&center=true&vCenter=true&width=300&height=22&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+ACTIVITY+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Activity" />
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=E8C547&icon_color=E8C547&text_color=6B7280&bg_color=0a0a0a&ring_color=E8C547&custom_title=Contributions" alt="GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&title_color=E8C547&text_color=6B7280&bg_color=0a0a0a&layout=compact&langs_count=7&custom_title=Languages" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- STREAK — active indicator -->
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=E8C547&fire=E8C547&currStreakLabel=E8C547&sideLabels=6B7280&dates=4B5563&currStreakNum=F0EDE8&sideNums=F0EDE8&background=0a0a0a&stroke=1a1a1a" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center"><sub><sup>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</sup></sub></div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │  07 · FOOTER — signature close                                   │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=14&pause=99999&color=4B5563&center=true&vCenter=true&width=500&height=30&lines=I+don%E2%80%99t+write+every+line.+I+architect+every+product." alt="Footer tagline" />
 
 <br/>
 
 <sub>
-Using AI tools — Claude, ChatGPT, Gemini — as development infrastructure,<br/>
-not as a shortcut. Thoughtful AI-augmented development.
-</sub>
-
-</div>
-
-<br/>
-
----
-
-<!-- ════════════════════════════════════════════════════════════
-     GITHUB STATS — minimal, integrated, not dashboard
-     ════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=E8C547&icon_color=E8C547&text_color=9CA3AF&bg_color=0a0a0a&hide_rank=false&custom_title=Activity" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&title_color=E8C547&text_color=9CA3AF&bg_color=0a0a0a&layout=compact&langs_count=6&custom_title=Languages" alt="Top Languages" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- STREAK — optional, uncomment if desired
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=E8C547&fire=E8C547&currStreakLabel=E8C547&sideLabels=6B7280&dates=6B7280&currStreakNum=E8E6E1&sideNums=E8E6E1" alt="Streak" />
-</div>
--->
-
----
-
-<!-- ════════════════════════════════════════════════════════════
-     FOOTER — signature, minimal
-     ════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-
-<sub>
-<code>MK</code>&nbsp;&nbsp;·&nbsp;&nbsp;Hyderabad, Pakistan&nbsp;&nbsp;·&nbsp;&nbsp;Open to freelance · collaborations · product roles
+<code>MK</code>
+&nbsp;·&nbsp;
+Native AI Full-Stack Developer
+&nbsp;·&nbsp;
+Hyderabad, Pakistan
+&nbsp;·&nbsp;
+Open to work
 </sub>
 
 <br/><br/>
 
-<!-- PROFILE VIEWS — subtle, not centrepiece -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6B7280&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=1a1a1a&label=profile+views&abbreviated=true" alt="Profile views" />
 
 <br/><br/>
 
-<sub><sup>
-— Built with intention, not decoration —
-</sup></sub>
+<sub><sup>── ∙ built with intention, not decoration ∙ ──</sup></sub>
 
 </div>
 
