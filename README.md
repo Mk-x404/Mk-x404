@@ -1,4 +1,4 @@
-# 🤖 Hi, I'm Muhib - A.I-Native Full Stack Developer
+# 🤖 Hi, I'm Muhib ~ A.I - Native Full Stack Developer
 
 <div align="center">
 <p align="center">
