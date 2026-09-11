@@ -1,126 +1,145 @@
 <div align="center">
 
-# ⚡ Muhib Khan
-### Native AI Full-Stack Developer & Product Designer
+<!-- HERO HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18&height=120&section=header&text=MUHIB%20KHAN&fontSize=42&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Header" />
+</p>
+
+<h3><b>Native AI Full-Stack Developer & Product Designer</b></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Native+AI+Full-Stack+Developer;Designing+Fluid%2C+Tactile+Interfaces;Architecting+Agentic+Workflows;React+19+%E2%80%A2+FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=650&lines=Shipping+AI-Native+Web+Applications;Designing+Fluid%2C+Tactile+User+Interfaces;Building+Autonomous+Agentic+Workflows;React+19+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Python" alt="Typing Tagline" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhibkhan-x73"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://datafect.vercel.app"><img src="https://img.shields.io/badge/Live_Studio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
-  <a href="mailto:muhibk968@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/muhibkhan-x73"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://datafect.vercel.app"><img src="https://img.shields.io/badge/Live_Studio-00F0FF?style=flat-square&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+  <a href="mailto:muhibk968@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Status-Building_In_Public-22C55E?style=flat-square" alt="Status" />
 </p>
 
+<br />
+
 <p align="center">
-  <em>"I bridge the gap between autonomous AI capabilities and fluid, polished user experiences."</em>
+  <em>"I bridge the gap between autonomous AI capabilities and fluid, polished interface craft."</em>
 </p>
 
 </div>
 
 ---
 
-### 💡 What I Do
-
-- 🧠 **AI-Native Engineering**: Building applications designed from the ground up around LLMs, in-memory RAG pipelines, and agentic workflows.
-- 🎨 **Product & Interface Craft**: Designing fluid, tactile user experiences with React 19, custom CSS design tokens, and smooth motion physics.
-- ⚡ **Resilient Backend Systems**: Engineering high-throughput asynchronous APIs with FastAPI, Python, and edge-deployed architectures.
-
----
-
-### 🚀 Featured Products
+### ⚡ Selected Builds
 
 <table>
+  <!-- PROJECT 1: DATAFECT -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">📊 DataFect</h3>
-      <p><b>Automated EDA & AutoML Web Studio</b></p>
-      <p>Self-healing dataset ingestion, sub-500ms statistical profiling, 1-click multi-model cross-validation, and an in-memory RAG data assistant powered by Gemini 2.0 Flash.</p>
+    <td width="55%" valign="top">
+      <h4>📊 DataFect — Automated EDA & AutoML Web Studio</h4>
+      <p>A cloud-native data laboratory that turns messy raw datasets into statistical profiles, benchmarked machine learning baselines, and grounded natural-language answers without boilerplate code.</p>
+      <ul>
+        <li><b>Self-Healing Ingestion</b>: Byte-level cascade parser (UTF-8 / Latin-1 / Windows-1252) with delimiter inference.</li>
+        <li><b>AutoML Benchmark Lab</b>: Multi-regressor cross-validation (Linear, Random Forest, HistGradientBoosting) in &lt; 5s.</li>
+        <li><b>Grounded RAG Assistant</b>: Session-isolated conversational dataset Q&A powered by Gemini 2.0 Flash.</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      </p>
-      <p>
-        <a href="https://datafect.vercel.app"><b>🚀 Launch Live Studio →</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/Mk-x404/DataFect"><b>📦 GitHub →</b></a>
+        <a href="https://datafect.vercel.app"><img src="https://img.shields.io/badge/Launch_Studio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+        <a href="https://github.com/Mk-x404/DataFect"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">💎 FinX</h3>
-      <p><b>Personal Financial Intelligence Platform</b></p>
-      <p>Full-stack personal wealth engine featuring a custom 5-factor Financial Health Score (A–F), debt amortization trajectories, and a glassmorphic dashboard with fluid motion.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      </p>
-      <p>
-        <a href="https://github.com/Mk-x404"><b>📦 View Repository →</b></a>
-      </p>
+    <td width="45%" valign="middle" align="center">
+      <img src="https://skillicons.dev/icons?i=react,ts,fastapi,python,scikitlearn,docker,vercel&perline=4" alt="DataFect Tech Stack" />
     </td>
   </tr>
+
+  <!-- PROJECT 2: FINX -->
   <tr>
-    <td colspan="2" valign="top">
-      <h3 align="left">⚡ Cloud-Ready POS</h3>
-      <p><b>Autonomous Retail Point-of-Sale Engine</b></p>
-      <p>Full-stack point-of-sale system featuring real-time inventory tracking, transactional sales history, and hardware-synchronized receipt printing for 80mm thermal printers.</p>
+    <td width="55%" valign="top">
+      <h4>💎 FinX — Personal Wealth & Financial Intelligence</h4>
+      <p>A full-stack financial operating dashboard replacing scattered spreadsheets with unified income, expense, and loan amortization tracking.</p>
+      <ul>
+        <li><b>Financial Health Score</b>: Custom algorithmic 5-factor evaluation (A–F) grading budget stability and debt health.</li>
+        <li><b>Tactile UI</b>: Fluid dark-mode glassmorphic interface with reactive motion physics.</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/REST_API-0288D1?style=flat-square" alt="REST" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <a href="https://github.com/Mk-x404"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
       </p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,sqlite,tailwind&perline=3" alt="FinX Tech Stack" />
+    </td>
+  </tr>
+
+  <!-- PROJECT 3: POS SYSTEM -->
+  <tr>
+    <td width="55%" valign="top">
+      <h4>🧾 Cloud-Ready POS — Retail Sales & Billing Engine</h4>
+      <p>An autonomous retail point-of-sale system managing real-time inventory state machines, multi-item cart workflows, and hardware print synchronization.</p>
+      <ul>
+        <li><b>Thermal Print Module</b>: Precision alignment and timezone-aware formatting for 80mm hardware receipt printers.</li>
+        <li><b>Audit Architecture</b>: Relational SQLite ledger tracking complete transactional history and SKU changes.</li>
+      </ul>
       <p>
-        <a href="https://github.com/Mk-x404"><b>📦 View Repository →</b></a>
+        <a href="https://github.com/Mk-x404"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
       </p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <img src="https://skillicons.dev/icons?i=python,flask,js,sqlite&perline=4" alt="POS Tech Stack" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technical Matrix
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| 🧠 AI & Agentic Systems | 🎨 Product & Frontend Design | ⚙️ Backend & Architecture |
-| :--- | :--- | :--- |
-| **Agentic AI Workflows** | **React 19 & Next.js** | **FastAPI & Uvicorn** |
-| **Grounded RAG Architecture** | **TypeScript (Strict Mode)** | **Node.js & Express** |
-| **Gemini & Claude REST APIs** | **Framer Motion & Micro-UI** | **SQLAlchemy ORM** |
-| **AI-Assisted Prototyping** | **Zero-Dependency CSS Tokens** | **SQLite & PostgreSQL** |
-| **Structured Output Generation** | **Recharts Data Visualizations** | **Docker Containerization** |
-| **Prompt Engineering** | **Responsive & Dark/Light UX** | **Vercel & Render CI/CD** |
+<p align="left"><b>Frontend & Design Engineering</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend Stack" />
+</p>
+
+<p align="left"><b>Backend & Data Systems</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,sqlite,supabase&theme=dark" alt="Backend Stack" />
+</p>
+
+<p align="left"><b>AI Workflows, Cloud & Tooling</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&theme=dark" alt="Cloud Stack" />
+</p>
 
 </div>
 
 ---
 
-### 📈 Live GitHub Activity
+### 📈 Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mk-x404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=00F0FF&text_color=94A3B8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mk-x404&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=00F0FF&currStreakLabel=00F0FF&sideNums=FFFFFF&currStreakNum=FFFFFF" width="48%" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mk-x404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=00F0FF&text_color=94A3B8" width="100%" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mk-x404&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=00F0FF&currStreakLabel=00F0FF&sideNums=FFFFFF&currStreakNum=FFFFFF" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-x404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" width="45%" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <p><b>Let's build something extraordinary together.</b></p>
+  <p><b>Designed & Engineered by Muhib Khan</b></p>
   <p>
-    <a href="https://linkedin.com/in/muhibkhan-x73">LinkedIn</a> • 
-    <a href="https://github.com/Mk-x404">GitHub</a> • 
-    <a href="https://datafect.vercel.app">DataFect Studio</a> • 
+    <a href="https://linkedin.com/in/muhibkhan-x73">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="https://github.com/Mk-x404">GitHub</a> &nbsp;·&nbsp;
+    <a href="https://datafect.vercel.app">DataFect Studio</a> &nbsp;·&nbsp;
     <a href="mailto:muhibk968@gmail.com">muhibk968@gmail.com</a>
   </p>
 </div>
